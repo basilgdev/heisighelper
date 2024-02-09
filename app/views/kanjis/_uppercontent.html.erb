@@ -1,0 +1,17 @@
+<p style="color: green"><%= notice %></p>
+<h1 class="display-5">Heisig Helper</h1>
+<div class="pb-3">This site parses a given Japanese sentence and breaks down each kanji into their radical components as they appear in James Heisig's Remembering the Kanji vol. I.</div>
+<div class="pb-3">It's most useful for filtering out the kanji in a sentence and copying their keywords and radicals onto your flashcards. :)</div>
+<div class="pb-1">Each kanji links to the excellent J-E dictionary <a href="https://jisho.org/" target="_blank">Jisho.org</a>.</div>
+
+<hr>
+<div><b><u><i>Updates</i></u></b><br>
+<i>06-Feb-24 - Added first 2042 kanji.</i></div>
+
+<hr>
+<div class="pb-1"><b>Enter your search clause below</b></div>
+
+<%= form_tag search_kanjis_path, :method => "get", id: "kanji_form" do %>
+  <div><%= text_field_tag :sentence, params[:sentence], id: "sentence_input", class: 'form-control' %></div>
+  <div class="pt-3" style="text-align: center"><%= submit_tag("Find the Kanji", :name => nil, class: 'btn btn-primary') %> </div>
+<% end %>

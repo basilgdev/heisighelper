@@ -1,0 +1,2042 @@
+﻿一,1,one,,2
+二,2,two,"one, one",9
+三,3,three,"one, two",14
+四,4,four,"mouth, human legs",47
+五,5,five,,31
+六,6,six,"top hat, animal legs",93
+七,7,seven,,115
+八,8,eight,,92
+九,9,nine,,55
+十,10,ten,,8
+口,11,mouth,,284
+日,12,day,,1
+月,13,month,,23
+田,14,rice field,,90
+目,15,eye,,76
+古,16,old,"ten, mouth",509
+吾,17,I,"five, mouth",1828
+冒,18,risk,"sun, eye",1317
+朋,19,companion,"flesh, flesh",2039
+明,20,bright,"sun, moon",67
+唱,21,chant,"mouth, tongue wagging in the mouth, tongue wagging in the mouth",1123
+晶,22,sparkle,"sun, sun, sun",1613
+品,23,goods,"mouth, mouth, mouth",225
+呂,24,spine,,2055
+昌,25,prosperous,"sun, sun",1372
+早,26,early,"sun, needle",402
+旭,27,rising sun,"nine, sun",1417
+世,28,generation,"twenty, fishhook",135
+胃,29,stomach,"brain, flesh",1647
+旦,30,nightbreak,"sun, floor",
+胆,31,gall bladder,"part of the body, nightbreak",1449
+亘,32,span,"ceiling, sun, floor",1728
+凹,33,concave,,2206
+凸,34,convex,,2143
+旧,35,olden times,"walking stick, day",549
+自,36,oneself,"drop, eye",19
+白,37,white,"drop, sun",483
+百,38,hundred,"one, white",163
+中,39,in,"walking stick, mouth",11
+千,40,thousand,"eye-dropper, ten",195
+舌,41,tongue,"thousand, mouth",1830
+升,42,measuring box,"thousand, needle",2077
+昇,43,rise up,"sun, measuring box",826
+丸,44,round,"nine, drop",542
+寸,45,measurement,"drop, ten",1669
+専,46,specialty,"ten, rice field, glued to",506
+博,47,Dr.,"needle, drop, specialty",794
+占,48,fortune-telling,"divining rod, mouth",694
+上,49,above,"magic wand, floor",35
+下,50,below,"ceiling, magic wand",97
+卓,51,eminent,"magic wand, sunflower",1348
+朝,52,morning,"mist, moon",248
+只,53,only,"mouth, animal legs",2288
+貝,54,shellfish,"eye, animal legs",1787
+貞,55,upright,"magic wand, shellfish",1389
+員,56,employee,"mouth, clam",54
+見,57,see,"eye, human legs",22
+児,58,newborn babe,"olden times, human legs",679
+元,59,beginning,"two, human legs",192
+頁,60,page,"one, drop of, oyster",
+頑,61,stubborn,"beginning, head",1247
+凡,62,mediocre,"drop, wind",1730
+負,63,defeat,"bound up, oyster",443
+万,64,ten thousand,"one, bound up",375
+句,65,phrase,"bound up, mouth",1244
+肌,66,texture,"part of the body, wind",1559
+旬,67,decameron,"bound up, day",1162
+勺,68,ladle,"bound up, drop",
+的,69,bull's eye,"white bird, ladle",105
+首,70,neck,"horns, nose",98
+乙,71,fishguts,,1841
+乱,72,riot,"tongue, fishhook",755
+直,73,straightaway,"ten, eye, fishhook",246
+具,74,tool,"eye, tool",629
+真,75,TRUE,"ten, eye, tool",279
+工,76,craft,,299
+左,77,left,"by one's side, craft",630
+右,78,right,"by one's side, mouth",602
+有,79,possess,"by one's side, meat",282
+賄,80,bribe,"money, possess",1282
+貢,81,tribute,"craft, money",956
+項,82,paragraph,"craft, head",884
+刀,83,sword,,1794
+刃,84,blade,"dagger, drop of",1763
+切,85,cut,"diced, dagger",324
+召,86,seduce,"dagger, mouth",1540
+昭,87,shining,"sun, seduce",697
+則,88,rule,"clam, saber",753
+副,89,vice-,"wealth, saber",360
+別,90,separate,"mouth, tied up, saber",214
+丁,91,street,,1312
+町,92,village,"rice field, street-sign",292
+可,93,can,"spike, mouth",314
+頂,94,place on the head,"nail, head",1350
+子,95,child,,72
+孔,96,cavity,"child, hook",2052
+了,97,complete,,792
+女,98,woman,,151
+好,99,fond,"woman, child",423
+如,100,likeness,"woman, mouth",1704
+母,101,mama,,570
+貫,102,pierce,"mama, oyster",1156
+兄,103,elder brother,"mouth, human legs",1219
+克,104,overcome,"needle, teenager",1333
+小,105,little,"drop, drop, drop",114
+少,106,few,"little, drop",287
+大,107,large,,7
+多,108,many,"evening, evening",139
+夕,109,evening,,924
+汐,110,eventide,"water, evening",2314
+外,111,outside,"evening, magic wand",81
+名,112,name,"evening, mouth",177
+石,113,stone,"cliff, mouth",342
+肖,114,resemblance,"small, flesh",1889
+硝,115,nitrate,"rock, spark",2154
+砕,116,smash,"rock, nine, ten",1579
+砂,117,sand,"stone, few",1146
+削,118,plane,"spark, saber",814
+光,119,ray,"small, human legs",527
+太,120,plump,"large, drop",552
+器,121,utensil,"mouth, mouth, St Bernard dog, mouth, mouth",525
+臭,122,stinking,"nose, St Bernard dog",1760
+妙,123,exquisite,"woman, few",1122
+省,124,focus,"few, eye",548
+厚,125,thick,"cliff, sun, child",768
+奇,126,strange,"St Bernard dog, nail, mouth",1367
+川,127,stream,,181
+州,128,state,"drop of, stream",386
+順,129,obey,"stream, head",779
+水,130,water,,223
+氷,131,icicle,"drop, water",1450
+永,132,eternity,"drop of, water",846
+泉,133,spring,"white, water",1086
+原,134,meadow,"cliff, spring",172
+願,135,petition,"meadow, head",894
+泳,136,swim,"water, eternity",1223
+沼,137,marsh,"water, seduce",1467
+沖,138,open sea,"water, in",929
+江,139,creek,"water, craft",704
+汁,140,soup,"water, ten",1843
+潮,141,tide,"water, morning",1231
+源,142,source,"water, meadow",738
+活,143,lively,"water, tongue",171
+消,144,extinguish,"water, spark",345
+況,145,but of course,"water, teenager",490
+河,146,river,"water, can",663
+泊,147,overnight,"water, white",1233
+湖,148,lake,"water, old, flesh",1344
+測,149,fathom,"water, rule",761
+土,150,soil,,307
+吐,151,spit,"mouth, dirt",1674
+圧,152,pressure,"cliff, soil",718
+埼,153,cape,"land, strange",971
+垣,154,hedge,"ground, span",1539
+圭,155,square jewel,"soil, soil",1837
+封,156,seal,"ivy, glue",1143
+涯,157,horizon,"water, cliff, ivy",1525
+寺,158,Buddhist temple,"land, glued to",879
+時,159,time,"sun, Buddhist temple",16
+均,160,level,"soil, ladle, drop",715
+火,161,fire,,574
+炎,162,inflammation,"fire, fire",1242
+煩,163,anxiety,"fire, head",2081
+淡,164,thin,"water, inflammation",1436
+灯,165,lamp,"fire, street-sign",1605
+畑,166,farm,"fire, rice field",1176
+災,167,disaster,"flood, fire",976
+灰,168,ashes,"cliff, fireplace",1717
+点,169,spot,"fortune-telling, oven-fire",165
+照,170,illuminate,"shining, oven-fire",1004
+魚,171,fish,"bound up, rice field, cooking-fire",1208
+漁,172,fishing,"water, fish",1094
+里,173,ri,"rice field, land",1096
+黒,174,black,"computer, fire",573
+墨,175,black ink,"black, dirt",1616
+鯉,176,carp,"fish, computer",2369
+量,177,quantity,"nightbreak, ri",469
+厘,178,rin,"cliff, computer",1835
+埋,179,bury,"dirt, computer",1110
+同,180,same,"hood, one, mouth",15
+洞,181,den,"water, monk",1618
+胴,182,trunk,"part of the body, same",1904
+向,183,yonder,"drop, helmet, mouth",182
+尚,184,esteem,"small, glass canopy, mouth",1531
+字,185,character,"house, child",485
+守,186,guard,"house, glued to",457
+完,187,perfect,"house, beginning",595
+宣,188,proclaim,"house, span",695
+宵,189,wee hours,"house, candle",2262
+安,190,relax,"house, woman",144
+宴,191,banquet,"relax, day",1675
+寄,192,draw near,"house, strange",673
+富,193,wealth,"house, wealth",644
+貯,194,savings,"money, house, nail",1100
+木,195,tree,,317
+林,196,grove,"tree, tree",656
+森,197,forest,"tree, grove",609
+桂,198,Japanese Judas-tree,"tree, ivy",1651
+柏,199,oak,"tree, white",1606
+枠,200,frame,"tree, nine, ten",922
+梢,201,treetops,"tree, candle",
+棚,202,shelf,"wood, companion",1594
+杏,203,apricot,"tree, mouth",2159
+桐,204,paulownia,"tree, monk",1668
+植,205,plant,"tree, straightaway",699
+枯,206,wither,"tree, old",1749
+朴,207,crude,"tree, magic wand",1626
+村,208,town,"tree, measurement",253
+相,209,inter-,"tree, eye",45
+机,210,desk,"wood, wind",1671
+本,211,book,"tree, one",10
+札,212,tag,"tree, fishhook",921
+暦,213,calendar,"cliff, grove, day",1765
+案,214,plan,"relax, tree",206
+燥,215,parch,"hearth, goods, wood",1819
+未,216,not yet,"tree, one",650
+末,217,extremity,"tree, one",456
+沫,218,splash,"water, extremity",
+味,219,flavor,"mouth, not yet",442
+妹,220,younger sister,"woman, not yet",1446
+朱,221,vermilion,"drop, not yet",1788
+株,222,stocks,"tree, vermilion",432
+若,223,young,"flower, right",458
+草,224,grass,"flower, early",967
+苦,225,suffering,"flower, old",623
+寛,226,tolerant,"house, flower, see",1377
+薄,227,dilute,"flower, water, acupuncturist",1009
+葉,228,leaf,"flower, generation, tree",414
+模,229,imitation,"tree, graveyard",668
+漠,230,vague,"water, graveyard",1611
+墓,231,grave,"graveyard, soil",1337
+暮,232,livelihood,"graveyard, sun",978
+膜,233,membrane,"part of the body, graveyard",1804
+苗,234,seedling,"flower, brains",1713
+兆,235,portent,,1174
+桃,236,peach tree,"tree, portent",1784
+眺,237,stare,"eye, portent",1726
+犬,238,dog,"drop, St Bernard dog",1326
+状,239,status quo,"turtle, chihuahua",298
+黙,240,silence,"black, chihuahua",1338
+然,241,sort of thing,"flesh, chihuahua, oven-fire",401
+荻,242,reed,"flower, pack of wild dogs, fire",1630
+狩,243,hunt,"pack of wild dogs, guard",1785
+猫,244,cat,"pack of wild dogs, seedling",1702
+牛,245,cow,,1202
+特,246,special,"cow, Buddhist temple",234
+告,247,revelation,"cow, mouth",188
+先,248,before,"cow, human legs",173
+洗,249,wash,"water, before",1168
+介,250,jammed in,"umbrella, walking stick",617
+界,251,world,"rice field, jammed in",158
+茶,252,tea,"flower, umbrella, wooden pole",1116
+合,253,fit,"meeting, mouth",41
+塔,254,pagoda,"dirt, flower, fit",1708
+王,255,king,,684
+玉,256,jewel,"drop, sceptre",737
+宝,257,treasure,"house, jewel",1139
+珠,258,pearl,"ball, vermilion",1711
+現,259,present,"ball, see",85
+狂,260,lunatic,"pack of wild dogs, king",1425
+皇,261,emperor,"white bird, king",721
+呈,262,display,"mouth, king",1571
+全,263,whole,"umbrella, king",75
+栓,264,plug,"tree, umbrella, sceptre",2199
+理,265,logic,"jewel, computer",86
+主,266,lord,"drop, king",95
+注,267,pour,"water, candlestick",497
+柱,268,pillar,"wood, candlestick",1119
+金,269,gold,"umbrella, sceptre, drop, drop",53
+銑,270,pig-iron,"metal, before",
+鉢,271,bowl,"metal, book",1890
+銅,272,copper,"metal, monk",1505
+釣,273,angling,"gold, ladle",1542
+針,274,needle,"gold, needle",505
+銘,275,inscription,"gold, name",1394
+鎮,276,tranquillize,"metal, true",1617
+道,277,road-way,"neck, road",207
+導,278,guidance,"road-way, glued to",354
+辻,279,crossing,"cross, road",1614
+迅,280,swift,"fishhook, crossing",1888
+造,281,create,"revelation, way",429
+迫,282,urge,"white, way",773
+逃,283,escape,"turtle, road",931
+辺,284,environs,"dagger, road",428
+巡,285,patrol,"flood, road",1262
+車,286,car,,333
+連,287,take along,"car, road",30
+軌,288,rut,"car, baseball team",1480
+輸,289,transport,"vehicle, meeting, butcher",371
+前,290,in front,"horns, butcher",27
+各,291,each,"walking legs, mouth",243
+格,292,status,"tree, each",281
+略,293,abbreviation,"rice field, each",774
+客,294,guest,"house, each",557
+額,295,forehead,"guest, head",407
+夏,296,summer,"head, walking legs",659
+処,297,dispose,"walking legs, wind",547
+条,298,twig,"walking legs, tree",363
+落,299,fall,"flower, water, each",420
+冗,300,superfluous,"crown, weather vane",1782
+軍,301,army,"crown, vehicle",189
+輝,302,radiance,"ray, chariot",1259
+運,303,carry,"chariot, road",255
+冠,304,crown,"crown, beginning, glued to",1503
+夢,305,dream,"flower, eye, crown, evening",943
+坑,306,pit,"soil, whirlwind",2040
+高,307,tall,"top hat, mouth, hood, mouth",65
+享,308,receive,"tall, child",1893
+塾,309,cram school,"receive, fat man, ground",1297
+熟,310,mellow,"receive, fat man, cooking-fire",1415
+亭,311,pavilion,"tall, crown, nail",1627
+京,312,capital,"tall, small",74
+涼,313,refreshing,"water, capital",1783
+景,314,scenery,"sun, capital",419
+鯨,315,whale,"fish, capital",1486
+舎,316,cottage,"umbrella, lidded crock",1170
+周,317,circumference,"glass cover, lidded crock",562
+週,318,week,"lap, road",540
+士,319,gentleman,,526
+吉,320,good luck,"samurai, mouth",711
+壮,321,robust,"turtle, samurai",1657
+荘,322,villa,"flower, turtle-samurai",1489
+売,323,sell,"samurai, crown, human legs",202
+学,324,study,"school house, child",63
+覚,325,memorize,"school house, see",710
+栄,326,flourish,"school house, tree",920
+書,327,write,"brush, tongue wagging in the mouth",169
+津,328,haven,"water, brush",1036
+牧,329,breed,"cow, taskmaster",1360
+攻,330,aggression,"craft, taskmaster",532
+敗,331,failure,"clam, taskmaster",516
+枚,332,sheet of...,"tree, taskmaster",911
+故,333,happenstance,"old, taskmaster",612
+敬,334,awe,"flower, phrase, taskmaster",1078
+言,335,say,,83
+警,336,admonish,"awe, words",366
+計,337,plot,"words, needle",228
+獄,338,prison,"pack of wild dogs, words, chihuahua",1529
+訂,339,revise,"words, nail",1690
+討,340,chastise,"words, glue",528
+訓,341,instruction,"words, stream",1134
+詔,342,imperial edict,"words, seduce",2239
+詰,343,packed,"words, aerosol can",1020
+話,344,tale,"words, tongue",134
+詠,345,recitation,"words, eternity",2000
+詩,346,poem,"words, Buddhist temple",1196
+語,347,word,"say, I",301
+読,348,read,"words, sell",618
+調,349,tune,"words, lap",87
+談,350,discuss,"words, inflammation",272
+諾,351,consent,"words, young",1490
+諭,352,rebuke,"words, meeting, butcher",1461
+式,353,style,"arrow, craft",251
+試,354,test,"speech, style",392
+弐,355,II,"quiver, two",
+域,356,range,"land, fiesta, mouth, floor",396
+賊,357,burglar,"money, fiesta, needle",2045
+栽,358,plantation,"Thanksgiving, tree",1496
+載,359,load,"Thanksgiving, wagon",825
+茂,360,overgrown,"flower, parade",1188
+成,361,turn into,"parade, dagger",116
+城,362,castle,"dirt, turn into",795
+誠,363,sincerity,"words, turn into",1128
+威,364,intimidate,"march, woman",1103
+滅,365,destroy,"water, march, fire",1222
+減,366,dwindle,"water, march, mouth",261
+桟,367,scaffold,"tree, float",2093
+銭,368,coin,"gold, float",1008
+浅,369,shallow,"water, float",1253
+止,370,stop,,310
+歩,371,walk,"footprint, few",554
+渉,372,ford,"water, walk",499
+頻,373,repeatedly,"walk, head",1590
+肯,374,agreement,"footprint, flesh",1813
+企,375,undertake,"umbrella, stop",278
+歴,376,curriculum,"cliff, grove, stop",632
+武,377,warrior,"quiver, stop",387
+賦,378,levy,"money, warrior",
+正,379,correct,"one, footprint",143
+証,380,evidence,"words, correct",306
+政,381,politics,"correct, taskmaster",17
+定,382,determine,"house, mending",48
+錠,383,lock,"metal, determine",1934
+走,384,run,"soil, mending",626
+超,385,transcend,"run, seduce",597
+赴,386,proceed,"run, divining rod",1649
+越,387,surpass,"run, parade",897
+是,388,just so,"day, mending",1045
+題,389,topic,"just so, head",96
+堤,390,dike,"earth, just so",1658
+建,391,build,"stretch, brush",300
+延,392,prolong,"stretch, drop, stop",747
+誕,393,nativity,"words, prolong",1024
+礎,394,cornerstone,"stone, grove, zoo",1224
+婿,395,bridegroom,"woman, zoo, month",2099
+衣,396,garment,,1214
+裁,397,tailor,"Thanksgiving, clothes",297
+装,398,attire,"turtle-samurai, clothes",657
+裏,399,back,"top hat, computer, scarf",812
+壊,400,demolition,"ground, needle, eye, clothing",727
+哀,401,pathetic,"top hat, mouth, scarf",1715
+遠,402,distant,"lidded crock, scarf, road",887
+猿,403,monkey,"pack of wild dogs, lidded crock, scarf",1772
+初,404,first time,"cloak, dagger",152
+布,405,linen,"by one's side, towel",877
+帆,406,sail,"towel, mediocre",1923
+幅,407,hanging scroll,"towel, wealth",641
+帽,408,cap,"towel, risk",1742
+幕,409,curtain,"graveyard, towel",835
+幌,410,canopy,"towel, sun, ray",1309
+錦,411,brocade,"metal, white, towel",1440
+市,412,market,"top hat, towel",42
+姉,413,elder sister,"woman, market",1473
+肺,414,lungs,"flesh, market",1387
+帯,415,sash,"buckle, apron",746
+滞,416,stagnate,"water, sash",1107
+刺,417,thorn,"tree, belt, saber",1031
+制,418,system,"cow, belt, saber",108
+製,419,made in...,"system, clothing",488
+転,420,revolve,"car, rising cloud",327
+芸,421,technique,"flower, rising cloud",719
+雨,422,rain,,950
+雲,423,cloud,"rain, rising cloud",1256
+曇,424,cloudy weather,"sun, cloud",1899
+雷,425,thunder,"weather, rice field",1491
+霜,426,frost,"weather, inter-",2151
+冬,427,winter,"walking legs, ice",1090
+天,428,heavens,"ceiling, St Bernard dog",512
+橋,429,bridge,"tree, angel",553
+嬌,430,attractive,"woman, angel",
+立,431,stand up,,58
+泣,432,cry,"water, stand up",1380
+章,433,badge,"vase, sunflower",990
+競,434,vie,"stand up, stand up, teenager, teenager",610
+帝,435,sovereign,"stand up, apron",1276
+童,436,juvenile,"stand up, computer",1138
+瞳,437,pupil,"eye, juvenile",2069
+鐘,438,bell,"metal, juvenile",1681
+商,439,make a deal,"stand up, glass cover, human legs, mouth",413
+嫡,440,legitimate wife,"woman, antique",2130
+適,441,suitable,"antique, road",670
+滴,442,drip,"water, antique",2019
+敵,443,enemy,"antique, taskmaster",1205
+匕,444,spoon,,
+北,445,north,"something added, sitting on the ground",153
+背,446,stature,"north, part of the body",696
+比,447,compare,"spoon, spoon",329
+昆,448,descendants,"sun, compare",1688
+皆,449,all,"compare, white",1267
+混,450,mix,"water, descendants",824
+渇,451,thirst,"water, siesta",1944
+謁,452,audience,"words, siesta",
+褐,453,brown,"cloak, siesta",2186
+喝,454,hoarse,"mouth, siesta",1858
+旨,455,delicious,"spoon, day",1166
+脂,456,fat,"flesh, delicious",1548
+壱,457,I (one),"samurai, crown, sitting on the ground",2351
+毎,458,every,"lying, mama",436
+敏,459,cleverness,"every, taskmaster",1042
+梅,460,plum,"tree, every",1232
+海,461,sea,"water, every",200
+乞,462,beg,"lying down, hook",2478
+乾,463,drought,"mist, beg",1453
+腹,464,abdomen,"part of the body, double back",1286
+複,465,duplicate,"cloak, double back",915
+欠,466,lack,,860
+吹,467,blow,"mouth, lack",1133
+炊,468,cook,"fire, yawn",1777
+歌,469,song,"can, can, yawn",519
+軟,470,soft,"car, yawn",1269
+次,471,next,"ice, yawn",222
+茨,472,briar,"flower, second",1203
+資,473,assets,"next, money",179
+姿,474,figure,"second, woman",441
+諮,475,consult with,"words, second, mouth",1345
+賠,476,compensation,"clam, muzzle",1243
+培,477,cultivate,"soil, muzzle",1431
+剖,478,divide,"muzzle, saber",1918
+音,479,sound,"stand up, tongue wagging in the mouth",491
+暗,480,darkness,"sun, sound",1040
+韻,481,rhyme,"sound, employee",2148
+識,482,discriminating,"words, kazoo",496
+鏡,483,mirror,"metal, mirror",1506
+境,484,boundary,"land, mirror",346
+亡,485,deceased,"top hat, hook",661
+盲,486,blind,"perish, eye",1767
+妄,487,delusion,"perish, woman",2264
+荒,488,laid waste,"flower, perish, flood",1099
+望,489,ambition,"perish, moon, king",470
+方,490,direction,"top hat, dagger",46
+妨,491,disturb,"woman, compass",1482
+坊,492,boy,"dirt, compass",1832
+芳,493,perfume,"flower, compass",1302
+肪,494,obese,"flesh, compass",1878
+訪,495,call on,"words, compass",372
+放,496,set free,"compass, taskmaster",288
+激,497,violent,"water, white, compass, taskmaster",560
+脱,498,undress,"flesh, devil",782
+説,499,rumor,"words, devil",326
+鋭,500,pointed,"metal, devil",1395
+曽,501,formerly,"horns, brain, tongue wagging in the mouth",1320
+増,502,increase,"soil, increase",231
+贈,503,presents,"money, increase",1001
+東,504,east,"tree, sun",37
+棟,505,ridgepole,"wood, east",1406
+凍,506,frozen,"ice, east",1284
+妊,507,pregnancy,"woman, porter",1413
+廷,508,courts,"porter, stretch",1439
+染,509,dye,"water, nine, tree",837
+燃,510,burn,"hearth, sort of thing",948
+賓,511,V.I.P.,"house, ceiling, few, money",1677
+歳,512,year-end,"stop, march, small",269
+県,513,prefecture,"eye, fishhook, small",140
+栃,514,horse chestnut,"tree, cliff, ten thousand",1427
+地,515,ground,"soil, scorpion",40
+池,516,pond,"water, scorpion",827
+虫,517,insect,,1351
+蛍,518,lightning-bug,"school house, insect",2031
+蛇,519,snake,"insect, house, spoon",1721
+虹,520,rainbow,"insect, craft",2110
+蝶,521,butterfly,"insect, generation, tree",2011
+独,522,single,"pack of wild dogs, insect",365
+蚕,523,silkworm,"heavens, insect",2272
+風,524,wind,"wind, gnats",558
+己,525,self,,1098
+起,526,rouse,"run, snake",374
+妃,527,queen,"woman, snake",1752
+改,528,reformation,"snake, taskmaster",147
+記,529,scribe,"words, snake",149
+包,530,wrap,"bound up, snake",954
+胞,531,placenta,"part of the body, wrap",1379
+砲,532,cannon,"stone, wrap",1268
+泡,533,bubbles,"water, wrap",1872
+亀,534,tortoise,"bound up, sun, sun, fishhook",1353
+電,535,electricity,"rain, eel",268
+竜,536,dragon,"vase, eel",1195
+滝,537,waterfall,"water, dragon",1478
+豚,538,pork,"flesh, sow",1864
+逐,539,pursue,"sow, road",2230
+遂,540,consummate,"horns, sow, road",1423
+家,541,house,"house, sow",133
+嫁,542,marry into,"woman, house",1581
+豪,543,overpowering,"tall, crown, sow",1104
+腸,544,intestines,"flesh, piggy bank",1807
+場,545,location,"soil, piggy bank",52
+湯,546,hot water,"water, piggy bank",1356
+羊,547,sheep,,1852
+美,548,beauty,"sheep, large",462
+洋,549,ocean,"water, sheep",763
+詳,550,detailed,"words, sheep",1178
+鮮,551,fresh,"fish, sheep",355
+達,552,accomplished,"soil, sheep, road",500
+羨,553,envious,"sheep, water, yawn",
+差,554,distinction,"wool, craft",449
+着,555,don,"wool, eye",376
+唯,556,solely,"mouth, turkey",1292
+焦,557,char,"turkey, oven-fire",973
+礁,558,reef,"rock, char",1977
+集,559,gather,"turkey, tree",210
+准,560,quasi-,"ice, turkey",1441
+進,561,advance,"turkey, road",142
+雑,562,miscellaneous,"baseball, tree, turkey",839
+雌,563,feminine,"footprint, spoon, turkey",1951
+準,564,semi-,"water, turkey, needle",425
+奮,565,stirred up,"St Bernard dog, turkey, brains",1521
+奪,566,rob,"St Bernard dog, turkey, glue",974
+確,567,assurance,"rock, turkey-house",252
+午,568,noon,,154
+許,569,permit,"words, horse",720
+歓,570,delight,"flying horse, yawn",1065
+権,571,authority,"tree, Pegasus",156
+観,572,outlook,"Pegasus, see",476
+羽,573,feathers,,748
+習,574,learn,"feathers, white bird",706
+翌,575,the following,"feathers, vase",1070
+曜,576,weekday,"day, feathers, turkey",940
+濯,577,laundry,"water, feathers, turkey",1698
+曰,578,sayeth,"pent in, one",
+困,579,quandary,"pent in, tree",843
+固,580,harden,"pent in, old",750
+国,581,country,"pent in, jewel",3
+団,582,group,"pent in, glue",213
+因,583,cause,"pent in, St Bernard dog",636
+姻,584,matrimony,"woman, cause",1985
+園,585,park,"pent in, lidded crock, scarf",628
+回,586,#NAME?,"pent in, mouth",50
+壇,587,podium,"ground, top hat, -times, nightbreak",1512
+店,588,store,"cave, fortune-telling",378
+庫,589,warehouse,"cave, car",852
+庭,590,courtyard,"cave, courts",816
+庁,591,government office,"cave, spike",793
+床,592,bed,"cave, tree",1175
+麻,593,hemp,"cave, grove",1142
+磨,594,grind,"hemp, stone",1608
+心,595,heart,,157
+忘,596,forget,"perish, heart",1129
+忍,597,endure,"blade, heart",1700
+認,598,acknowledge,"words, endure",198
+忌,599,mourning,"snake, heart",1882
+志,600,intention,"samurai, heart",823
+誌,601,document,"words, intention",851
+忠,602,loyalty,"in, heart",1113
+串,603,shish kebab,,2139
+患,604,afflicted,"shish kebab, heart",796
+思,605,think,"brains, heart",132
+恩,606,grace,"cause, heart",1418
+応,607,apply,"cave, heart",266
+意,608,idea,"sound, heart",99
+想,609,concept,"inter-, heart",381
+息,610,breath,"nose, heart",882
+憩,611,recess,"tongue, nose, heart",1731
+恵,612,favor,"needle, brains, heart",925
+恐,613,fear,"craft, mediocre, heart",878
+惑,614,beguile,"fiesta, mouth, floor, heart",777
+感,615,emotion,"march, mouth, heart",233
+憂,616,melancholy,"head, crown, heart, walking legs",1625
+寡,617,widow,"house, head, sword",2035
+忙,618,busy,"state of mind, perish",1475
+悦,619,ecstasy,"state of mind, devil",1762
+恒,620,constancy,"state of mind, span",1314
+悼,621,lament,"state of mind, eminent",1645
+悟,622,enlightenment,"state of mind, I",1411
+怖,623,dreadful,"state of mind, linen",1325
+慌,624,disconcerted,"state of mind, laid waste",1826
+悔,625,repent,"state of mind, every",1460
+憎,626,hate,"state of mind, increase",1808
+慣,627,accustomed,"state of mind, pierce",1177
+愉,628,pleasure,"state of mind, meeting, butcher",1974
+惰,629,lazy,"state of mind, left, flesh",2336
+慎,630,humility,"state of mind, true",999
+憾,631,remorse,"state of mind, emotion",1682
+憶,632,recollection,"state of mind, idea",1324
+慕,633,pining,"graveyard, valentine",2100
+添,634,annexed,"water, heavens, valentine",1501
+必,635,invariably,"heart, something added",265
+泌,636,ooze,"water, invariably",2112
+手,637,hand,,60
+看,638,watch over,"hand, eye",1060
+摩,639,chafe,"hemp, hand",1252
+我,640,ego,"hand, fiesta",829
+義,641,righteousness,"sheep, ego",415
+議,642,deliberation,"words, righteousness",25
+犠,643,sacrifice,"cow, righteousness",1189
+抹,644,rub,"finger, extremity",2006
+抱,645,embrace,"finger, wrap",871
+搭,646,board,"finger, flower, fit",1472
+抄,647,extract,"fingers, few",2328
+抗,648,confront,"fingers, whirlwind",666
+批,649,criticism,"finger, compare",568
+招,650,beckon,"finger, seduce",840
+拓,651,clear the land,"fingers, rock",1526
+拍,652,clap,"fingers, white",1373
+打,653,strike,"fingers, spike",239
+拘,654,arrest,"fingers, phrase",1336
+捨,655,discard,"fingers, cottage",1266
+拐,656,kidnap,"finger, mouth, dagger",1498
+摘,657,pinch,"finger, antique",564
+挑,658,challenge,"fingers, portent",989
+指,659,finger,"fingers, delicious",155
+持,660,hold,"fingers, Buddhist temple",119
+括,661,fasten,"finger, tongue",1026
+揮,662,brandish,"finger, chariot",946
+推,663,conjecture,"fingers, turkey",507
+揚,664,hoist,"fingers, piggy bank",1316
+提,665,propose,"fingers, just so",254
+損,666,damage,"finger, employee",807
+拾,667,pick up,"fingers, fit",1479
+担,668,shouldering,"fingers, nightbreak",422
+拠,669,foothold,"fingers, dispose",858
+描,670,sketch,"fingers, seedling",876
+操,671,maneuver,"fingers, goods, tree",1016
+接,672,touch,"fingers, vase, woman",523
+掲,673,put up a notice,"fingers, siesta",899
+掛,674,hang,"fingers, ivy, magic wand",1027
+研,675,polish,"stone, two hands",336
+戒,676,commandment,"fiesta, two hands",1062
+械,677,contraption,"tree, commandment",1321
+鼻,678,nose,"nose, brains, two hands",1632
+刑,679,punish,"two hands, saber",864
+型,680,mould,"punish, soil",482
+才,681,genius,,1497
+財,682,property,"clam, genie",494
+材,683,lumber,"tree, genie",565
+存,684,suppose,"genie in the bottle, child",577
+在,685,exist,"genie in the bottle, soil",211
+乃,686,from,,1978
+携,687,portable,"fingers, turkey, fist",1017
+及,688,reach out,,544
+吸,689,suck,"mouth, outstretched hands",1054
+扱,690,handle,"finger, outstretched hands",1057
+丈,691,length,,1375
+史,692,history,"mouth, tucked under the arm",511
+吏,693,officer,"one, history",
+更,694,grow late,"ceiling, sun, tucked under the arm",861
+硬,695,stiff,"rock, grow late",1101
+又,696,or again,,1874
+双,697,pair,"crotch, crotch",1029
+桑,698,mulberry,"crotch, crotch, crotch, tree",1650
+隻,699,vessels,"turkey, crotch",1546
+護,700,safeguard,"words, flower, vessels",351
+獲,701,seize,"pack of wild dogs, flower, vessels",964
+奴,702,guy,"woman, crotch",1932
+怒,703,angry,"guy, heart",1221
+友,704,friend,"by one's side, crotch",622
+抜,705,slip out,"fingers, friend",726
+投,706,throw,"fingers, missile",236
+没,707,drown,"water, missile",1385
+設,708,establishment,"words, missile",145
+撃,709,beat,"car, missile, hand",473
+殻,710,husk,"samurai, superfluous, missile",1892
+支,711,branch,"needle, crotch",159
+技,712,skill,"fingers, branch",434
+枝,713,bough,"tree, branch",1401
+肢,714,limb,"part of the body, branch",2289
+茎,715,stalk,"flower, spool",2013
+怪,716,suspicious,"state of mind, spool",1634
+軽,717,lightly,"car, spool",790
+叔,718,uncle,"above, small, crotch",1950
+督,719,coach,"uncle, eye",534
+寂,720,loneliness,"house, uncle",1599
+淑,721,graceful,"water, uncle",1922
+反,722,anti-,"cliff, crotch",191
+坂,723,slope,"ground, anti-",865
+板,724,plank,"tree, anti-",926
+返,725,return,"anti-, road",685
+販,726,marketing,"money, anti-",627
+爪,727,claw,,2025
+妥,728,gentle,"vulture, woman",1102
+乳,729,milk,"fledgling, hook",1289
+浮,730,floating,"water, fledgling",776
+将,731,leader,"turtle, vulture, glue",634
+奨,732,exhort,"leader, St Bernard dog",1445
+採,733,pick,"finger, vulture, tree",607
+菜,734,vegetable,"flower, vulture, tree",1327
+受,735,accept,"birdhouse, crotch",136
+授,736,impart,"fingers, accept",535
+愛,737,love,"birdhouse, heart, walking legs",640
+払,738,pay,"finger, elbow",813
+広,739,wide,"cave, elbow",263
+拡,740,broaden,"fingers, wide",611
+鉱,741,mineral,"metal, wide",1376
+弁,742,valve,"elbow, two hands",619
+雄,743,masculine,"by one's side, elbow, turkey",669
+台,744,pedestal,"elbow, mouth",262
+怠,745,neglect,"pedestal, heart",1703
+治,746,reign,"water, pedestal",109
+始,747,commence,"woman, pedestal",244
+胎,748,womb,"part of the body, pedestal",1861
+窓,749,window,"house, human legs, elbow, heart",1186
+去,750,gone,"soil, elbow",440
+法,751,method,"water, gone",100
+会,752,meeting,"meeting, wall",4
+至,753,climax,"wall, soil",996
+室,754,room,"house, climax",550
+到,755,arrival,"climax, saber",1032
+致,756,doth,"climax, taskmaster",870
+互,757,mutually,,914
+棄,758,abandon,"infant, buckle, tree",901
+育,759,bring up,"infant, meat",369
+撤,760,remove,"fingers, bring up, taskmaster",811
+充,761,allot,"infant, human legs",949
+銃,762,gun,"metal, allot",1013
+硫,763,sulphur,"rock, infant, flood",1867
+流,764,current,"water, infant, flood",280
+允,765,license,"elbow, human legs",2358
+唆,766,tempt,"mouth, license, walking legs",1278
+出,767,exit,,13
+山,768,mountain,,131
+拙,769,bungling,"fingers, exit",1938
+岩,770,boulder,"mountain, rock",787
+炭,771,charcoal,"mountain, ashes",1307
+岐,772,branch off,"mountain, branch",1428
+峠,773,mountain peak,"mountain, above, below",1941
+崩,774,crumble,"mountain, companion",778
+密,775,secrecy,"house, invariably, mountain",815
+蜜,776,honey,"house, invariably, insect",2203
+嵐,777,storm,"mountain, wind",1910
+崎,778,promontory,"mountain, strange",533
+入,779,enter,,56
+込,780,crowded,"enter, road",675
+分,781,part,"go in, dagger",24
+貧,782,poverty,"part, money",1211
+頒,783,partition,"part, head",2287
+公,784,public,"come in, elbow",118
+松,785,pine tree,"tree, public",471
+翁,786,venerable old man,"public, feathers",2064
+訟,787,sue,"words, public",1061
+谷,788,valley,"go in, umbrella, mouth",508
+浴,789,bathe,"water, valley",1136
+容,790,contain,"house, valley",264
+溶,791,melt,"water, contain",1364
+欲,792,longing,"valley, yawn",902
+裕,793,abundant,"cloak, valley",1048
+鉛,794,lead (metal),"metal, gully",1710
+沿,795,run alongside,"water, gully",1121
+賞,796,prize,"outhouse, money",426
+党,797,party,"outhouse, human legs",39
+堂,798,public chamber,"outhouse, land",1010
+常,799,usual,"outhouse, towel",293
+裳,800,skirt,"outhouse, garment",
+掌,801,manipulate,"outhouse, hand",1757
+皮,802,pelt,,1092
+波,803,waves,"water, pelt",740
+婆,804,old woman,"waves, woman",2435
+披,805,expose,"fingers, pelt",1438
+破,806,rend,"rock, pelt",590
+被,807,incur,"cloak, pelt",431
+残,808,remainder,"bone, float",380
+殉,809,martyrdom,"bone, decameron",2080
+殊,810,particularly,"bone, vermilion",1361
+殖,811,augment,"bone, straightaway",1362
+列,812,file,"bone, saber",927
+裂,813,split,"file, garment",1041
+烈,814,ardent,"file, oven-fire",1397
+死,815,death,"bone, spoon",229
+葬,816,interment,"flower, death, two hands",754
+瞬,817,wink,"eye, birdhouse, sunglasses",1265
+耳,818,ear,,1328
+取,819,take,"ear, crotch",122
+趣,820,gist,"run, take",1153
+最,821,utmost,"sun, take",82
+撮,822,snapshot,"finger, utmost",1023
+恥,823,shame,"ear, heart",1575
+職,824,post,"ear, kazoo",305
+聖,825,holy,"ear, mouth, king",1165
+敢,826,daring,"spike, ear, taskmaster",1859
+聴,827,listen,"ear, needle, eye, heart",781
+懐,828,pocket,"state of mind, needle, eye, garment",1493
+慢,829,ridicule,"state of mind, mandala",1368
+漫,830,loose,"water, mandala",1408
+買,831,buy,"eye, shellfish",520
+置,832,placement,"eye, straightaway",277
+罰,833,penalty,"eye, words, saber",1220
+寧,834,rather,"house, heart, eye, spike",1697
+濁,835,voiced,"water, eye, bound up, insect",1883
+環,836,ring,"jewel, eye, ceiling, mouth, scarf",409
+還,837,send back,"eye, ceiling, mouth, scarf, road",910
+夫,838,husband,,335
+扶,839,aid,"fingers, husband",1879
+渓,840,mountain stream,"water, vulture, husband",2063
+規,841,standard,"husband, see",349
+替,842,exchange,"husband, husband, day",979
+賛,843,approve,"husband, husband, money",868
+潜,844,submerge,"water, exchange",1329
+失,845,lose,"drop, husband",447
+鉄,846,iron,"metal, to drop",672
+迭,847,transfer,"to drop, road",1907
+臣,848,retainer,,1249
+姫,849,princess,"woman, slave",1566
+蔵,850,storehouse,"flower, parade, slave",468
+臓,851,entrails,"part of the body, storehouse",991
+賢,852,intelligent,"slave, crotch, shellfish",1159
+堅,853,strict,"slave, crotch, soil",1049
+臨,854,look to,"slave, reclining, goods",722
+覧,855,perusal,"slave, reclining, floor, see",1510
+巨,856,gigantic,,892
+拒,857,repel,"fingers, gigantic",863
+力,858,power,,62
+男,859,male,"rice field, power",240
+労,860,labor,"school house, power",398
+募,861,recruit,"graveyard, power",809
+劣,862,inferiority,"few, muscle",1620
+功,863,achievement,"craft, power",857
+勧,864,persuade,"Pegasus, power",1068
+努,865,toil,"guy, muscle",749
+励,866,encourage,"cliff, ten thousand, power",1254
+加,867,add,"muscle, mouth",130
+賀,868,congratulations,"add, shells",1056
+架,869,erect,"add, tree",1555
+脇,870,armpit,"part of the body, triceps",1806
+脅,871,threaten,"triceps, flesh",1183
+協,872,co-,"needle, triceps",121
+行,873,going,"drop, person, ceiling, nail",20
+律,874,rhythm,"column, brush",992
+復,875,restore,"going, double back",438
+得,876,gain,"going, nightbreak, glue",175
+従,877,accompany,"column, horns, mending",601
+徒,878,junior,"line, run",817
+待,879,wait,"line, Buddhist temple",391
+往,880,journey,"column, candlestick",1421
+征,881,subjugate,"column, correct",1578
+径,882,diameter,"line, spool",1435
+彼,883,he,"going, pelt",648
+役,884,duty,"going, missile",315
+徳,885,benevolence,"going, needle, eye, heart",1091
+徹,886,penetrate,"line, bring up, taskmaster",968
+徴,887,indications,"line, mountain, king, taskmaster",850
+懲,888,penal,"indications, heart",1303
+微,889,delicate,"line, mountain, ceiling, human legs, taskmaster",1108
+街,890,boulevard,"boulevard, ivy",891
+衡,891,equilibrium,"boulevard, bound up, brains, St Bernard dog",1847
+稿,892,draft,"wheat, tall",1400
+稼,893,earnings,"wheat, house",1264
+程,894,extent,"wheat, display",514
+税,895,tax,"wheat, devil",289
+稚,896,immature,"wheat, turkey",1560
+和,897,harmony,"wheat, mouth",124
+移,898,shift,"wheat, many",448
+秒,899,second,"wheat, few",1015
+秋,900,autumn,"wheat, fire",635
+愁,901,distress,"autumn, heart",2171
+私,902,private,"wheat, elbow",242
+秩,903,regularity,"wheat, to drop",1275
+秘,904,secret,"wheat, invariably",862
+称,905,appellation,"wheat, reclining, small",985
+利,906,profit,"wheat, saber",203
+梨,907,pear tree,"profit, tree",1331
+穫,908,harvest,"wheat, flower, vessels",1642
+穂,909,ear (of a plant),"wheat, favor",1656
+稲,910,rice plant,"wheat, vulture, olden times",1038
+香,911,incense,"wheat, sun",859
+季,912,seasons,"wheat, child",842
+委,913,committee,"wheat, woman",187
+秀,914,excel,"wheat, fist",848
+透,915,transparent,"excel, road",1035
+誘,916,entice,"words, excel",993
+穀,917,cereals,"samurai, crown, wheat, missile",1744
+菌,918,germ,"flower, pent in, wheat",1586
+米,919,rice,"drop, drop, tree",61
+粉,920,flour,"rice, part",1484
+粘,921,sticky,"rice, fortune-telling",1410
+粒,922,grains,"rice, vase",1635
+粧,923,cosmetics,"rice, cave, soil",1545
+迷,924,astray,"USA, road",942
+粋,925,chic,"rice, baseball team, needle",1768
+糧,926,provisions,"rice, quantity",1354
+菊,927,chrysanthemum,"flower, bound up, rice",1287
+奥,928,core,"drop, pent in, rice, St Bernard dog",1018
+数,929,number,"rice, woman, taskmaster",148
+楼,930,watchtower,"tree, rice, woman",2173
+類,931,sort,"rice, St Bernard dog, head",678
+漆,932,lacquer,"water, tree, umbrella, grains of rice",1971
+様,933,Esq.,"tree, sheep, grains of rice",493
+求,934,request,,220
+球,935,ball,"ball, request",302
+救,936,salvation,"request, taskmaster",799
+竹,937,bamboo,"drop, nail, drop, nail",593
+笑,938,laugh,"bamboo, heavens",913
+笠,939,bamboo hat,"bamboo, vase",1499
+笹,940,bamboo grass,"bamboo, generation",1743
+筋,941,muscle,"bamboo, part of the body, power",744
+箱,942,box,"bamboo, inter-",1357
+筆,943,writing brush,"bamboo, brush",1132
+筒,944,cylinder,"bamboo, monk",1631
+等,945,etc.,"bamboo, Buddhist temple",798
+算,946,calculate,"bamboo, eye, two hands",361
+答,947,solution,"bamboo, fit",486
+策,948,scheme,"bamboo, tree, belt",209
+簿,949,register,"bamboo, water, acupuncturist",1358
+築,950,fabricate,"bamboo, craft, mediocre, wood",821
+人,951,person,,5
+佐,952,assistant,"person, left",474
+但,953,however,"person, nightbreak",2404
+住,954,dwell,"person, candlestick",270
+位,955,rank,"person, vase",276
+仲,956,go-between,"person, in",919
+体,957,body,"person, book",88
+悠,958,permanence,"person, walking stick, taskmaster, heart",1921
+件,959,affair,"person, cow",212
+仕,960,attend,"person, samurai",439
+他,961,other,"person, scorpion",543
+伏,962,prostrated,"person, chihuahua",1604
+伝,963,transmit,"person, rising cloud",416
+仏,964,Buddha,"person, elbow",819
+休,965,rest,"person, tree",642
+仮,966,sham,"person, anti-",1039
+伯,967,chief,"person, white",1741
+俗,968,vulgar,"person, valley",1610
+信,969,faith,"person, words",208
+佳,970,excellent,"person, ivy",1643
+依,971,reliant,"person, clothing",906
+例,972,example,"person, file",399
+個,973,individual,"person, harden",451
+健,974,healthy,"person, build",572
+側,975,side,"person, rule",216
+侍,976,waiter,"person, Buddhist temple",1939
+停,977,halt,"person, pavilion",733
+値,978,price,"person, straightaway",518
+倣,979,emulate,"person, set free",2454
+倒,980,overthrow,"person, arrival",791
+偵,981,spy,"person, upright",1857
+僧,982,Buddhist priest,"person, increase",1724
+億,983,hundred million,"person, idea",716
+儀,984,ceremony,"person, righteousness",739
+償,985,reparation,"person, prize",854
+仙,986,hermit,"person, mountain",1157
+催,987,sponsor,"hermit, turkey",536
+仁,988,humanity,"person, two",1332
+侮,989,scorn,"person, every",2004
+使,990,use,"person, officer",219
+便,991,convenience,"person, grow late",729
+倍,992,double,"person, muzzle",714
+優,993,tenderness,"person, melancholy",334
+伐,994,fell,"person, fiesta",1816
+宿,995,inn,"house, person, hundred",701
+傷,996,wound,"person, reclining, piggy bank",845
+保,997,protect,"person, mouth, tree",146
+褒,998,praise,"top hat, protect, scarf",2073
+傑,999,greatness,"person, sunglasses, tree",1926
+付,1000,adhere,"person, glue",322
+符,1001,token,"bamboo, adhere",1798
+府,1002,borough,"cave, adhere",170
+任,1003,responsibility,"person, porter",217
+賃,1004,fare,"responsibility, money",961
+代,1005,substitute,"person, arrow",66
+袋,1006,sack,"substitute, garment",1125
+貸,1007,lend,"substitute, shells",995
+化,1008,change,"person, spoon",89
+花,1009,flower,"flower, change",578
+貨,1010,freight,"change, shells",822
+傾,1011,lean,"change, head",938
+何,1012,what,"person, can",340
+荷,1013,baggage,"flower, what",1230
+俊,1014,sagacious,"person, license, walking legs",1007
+傍,1015,bystander,"person, stand up, crown, compass",1660
+久,1016,long time,"bound up, person",688
+畝,1017,furrow,"top hat, rice field, long time",2327
+囚,1018,captured,"person, pent in",2107
+内,1019,inside,"person, belt",44
+丙,1020,third class,"ceiling, inside",
+柄,1021,design,"tree, third class",1140
+肉,1022,meat,"person, belt, person",986
+腐,1023,rot,"borough, meat",1225
+座,1024,sit,"cave, assembly line, soil",588
+卒,1025,graduate,"top hat, assembly line, needle",772
+傘,1026,umbrella,"umbrella, assembly line, assembly line, needle",1694
+匁,1027,monme,"bound up, arm",
+以,1028,by means of,"plow, drop of, person",126
+似,1029,similar,"person, by means of",923
+併,1030,join,"person, puzzle",966
+瓦,1031,tile,"ceiling, walking stick, fishhook, ice",1850
+瓶,1032,flower pot,"puzzle, tile",1528
+宮,1033,Shinto shrine,"house, spine",367
+営,1034,occupation,"school house, spine",303
+善,1035,virtuous,"sheep, horns, mouth",765
+年,1036,year,"horse, broken sunglasses",6
+夜,1037,night,"top hat, person, walking legs, drop",487
+液,1038,fluid,"water, night",1210
+塚,1039,hillock,"soil, crown, sow",869
+幣,1040,cash,"shredder, towel",1803
+弊,1041,abuse,"shredder, two hands",1750
+喚,1042,yell,"mouth, bound up, four, St Bernard dog",1120
+換,1043,interchange,"fingers, bound up, four, St Bernard dog",687
+融,1044,dissolve,"ceiling, mouth, hood, human legs, spike, insect",481
+施,1045,alms,"banner, scorpion",323
+旋,1046,rotation,"banner, zoo",1801
+遊,1047,play,"banner, child, road",941
+旅,1048,trip,"banner, person, rag",783
+勿,1049,not,,
+物,1050,thing,"cow, knot",215
+易,1051,easy,"sun, knot",571
+賜,1052,grant,"shells, easy",2190
+尿,1053,urine,"flag, water",1672
+尼,1054,nun,"flag, spoon",1844
+泥,1055,mud,"water, nun",1589
+塀,1056,fence,"soil, flag, puzzle",1991
+履,1057,footgear,"flag, restore",1619
+屋,1058,roof,"flag, climax",616
+握,1059,grip,"fingers, roof",1003
+屈,1060,yield,"flag, exit",1434
+掘,1061,dig,"fingers, yield",1257
+堀,1062,ditch,"soil, yield",1285
+居,1063,reside,"flag, old",836
+据,1064,set,"fingers, reside",1468
+層,1065,stratum,"flag, increase",801
+局,1066,bureau,"flag, phrase",286
+遅,1067,slow,"flag, sheep, road",833
+漏,1068,leak,"water, flag, rain",1298
+刷,1069,printing,"flag, towel, saber",1352
+尺,1070,shaku,,1940
+尽,1071,exhaust,"shaku-hachi, ice",1234
+沢,1072,swamp,"water, shaku-hachi",296
+訳,1073,translate,"words, shaku-hachi",1050
+択,1074,choose,"fingers, shaku-hachi",847
+昼,1075,daytime,"shaku-hachi, nightbreak",1115
+戸,1076,door,"one, flag",575
+肩,1077,shoulder,"door, flesh",1215
+房,1078,tassel,"door, compass",808
+扇,1079,fan,"door, wings",1805
+炉,1080,hearth,"hearth, door",1359
+戻,1081,re-,"door, St Bernard dog",890
+涙,1082,tears,"water, re-",1381
+雇,1083,employ,"door, turkey",975
+顧,1084,look back,"employ, head",1058
+啓,1085,disclose,"door, taskmaster, mouth",1403
+示,1086,show,"two, small",237
+礼,1087,salutation,"altar, fishhook",1185
+祥,1088,auspicious,"altar, sheep",1273
+祝,1089,celebrate,"altar, teenager",1184
+福,1090,blessing,"altar, wealth",467
+祉,1091,welfare,"altar, footprint",1063
+社,1092,company,"altar, soil",21
+視,1093,inspection,"altar, see",362
+奈,1094,Nara,"St Bernard dog, altar",841
+尉,1095,military officer,"flag, altar, glue",2007
+慰,1096,consolation,"military officer, heart",1158
+款,1097,goodwill,"samurai, altar, yawn",1854
+禁,1098,prohibition,"grove, altar",681
+襟,1099,collar,"cloak, prohibition",2030
+宗,1100,religion,"house, altar",997
+崇,1101,adore,"mountain, religion",1970
+祭,1102,ritual,"flesh, crotch, altar",1124
+察,1103,guess,"house, ritual",477
+擦,1104,grate,"fingers, guess",1485
+由,1105,wherefore,,325
+抽,1106,pluck,"fingers, sprout",1437
+油,1107,oil,"water, sprout",690
+袖,1108,sleeve,"cloak, sprout",1960
+宙,1109,mid-air,"house, shoot",1005
+届,1110,deliver,"flag, sprout",939
+笛,1111,flute,"bamboo, sprout",1928
+軸,1112,axis,"car, shoot",1261
+甲,1113,armor,,1073
+押,1114,push,"fingers, roots",789
+岬,1115,headland,"mountain, roots",1972
+挿,1116,insert,"fingers, thousand, roots",1908
+申,1117,speaketh,,492
+伸,1118,expand,"person, monkey",730
+神,1119,gods,"altar, monkey",347
+捜,1120,search,"fingers, monkey, crotch",592
+果,1121,fruit,"brains, tree",258
+菓,1122,candy,"flower, fruit",1719
+課,1123,chapter,"words, fruit",455
+裸,1124,naked,"cloak, fruit",1796
+斤,1125,axe,,
+析,1126,chop,"tree, axe",980
+所,1127,place,"door, axe",221
+祈,1128,pray,"altar, axe",1462
+近,1129,near,"axe, road",194
+折,1130,fold,"fingers, axe",962
+哲,1131,philosophy,"fold, mouth",1093
+逝,1132,departed,"fold, road",2018
+誓,1133,vow,"fold, words",1567
+暫,1134,temporarily,"car, axe, day",1112
+漸,1135,steadily,"water, car, axe",2115
+断,1136,severance,"fishhook, rice, axe",338
+質,1137,substance,"axe, axe, shells",389
+斥,1138,reject,"axe, drop of",2231
+訴,1139,accusation,"words, reject",427
+昨,1140,yesterday,"day, saw",226
+詐,1141,lie,"words, saw",1511
+作,1142,make,"person, saw",103
+雪,1143,snow,"rain, broom",1131
+録,1144,record,"metal, broom, rice",546
+尋,1145,inquire,"broom, craft, mouth, glue",1398
+急,1146,hurry,"bound up, broom, heart",309
+穏,1147,calm,"wheat, vulture, broom, heart",1535
+侵,1148,encroach,"person, crowned witch",1025
+浸,1149,immersed,"water, crowned witch",1447
+寝,1150,lie down,"house, turtle, crowned witch",1034
+婦,1151,lady,"woman, broom, apron",671
+掃,1152,sweep,"fingers, broom, apron",1255
+当,1153,hit,"small, broom",91
+争,1154,contend,"bound up, rake",271
+浄,1155,clean,"water, contend",1383
+事,1156,matter,"one, mouth, rake",18
+唐,1157,T'ang,"cave, rake, mouth",1727
+糖,1158,sugar,"rice, T'ang",1471
+康,1159,ease,"cave, sieve",760
+逮,1160,apprehend,"sieve, road",766
+伊,1161,Italy,"person, mop",703
+君,1162,old boy,"mop, mouth",947
+群,1163,flock,"old boy, sheep",1012
+耐,1164,#NAME?,"comb, glue",1295
+需,1165,demand,"rain, comb",935
+儒,1166,Confucian,"person, demand",2162
+端,1167,edge,"vase, mountain, comb",960
+両,1168,both,"spike, belt, shovel",247
+満,1169,full,"water, flower, both",515
+画,1170,brush-stroke,"ceiling, sprout, shovel",199
+歯,1171,tooth,"footprint, rice, shovel",1106
+曲,1172,bend,"brains, something added",810
+曹,1173,cadet,"one, bend, sun",1998
+遭,1174,encounter,"cadet, road",1554
+漕,1175,rowing,"water, cadet",2354
+槽,1176,vat,"tree, cadet",1809
+斗,1177,Ursa Major,,1885
+料,1178,fee,"rice, measuring cup",295
+科,1179,department,"wheat, measuring cup",531
+図,1180,map,"pent in, Ursa Major",539
+用,1181,utilize,"meat, walking stick",107
+庸,1182,commonplace,"cave, rake, screwdriver",2038
+備,1183,equip,"person, flower, cliff, screwdriver",356
+昔,1184,once upon a time,"salad, day",1197
+錯,1185,confused,"metal, once upon a time",1740
+借,1186,borrow,"person, once upon a time",932
+惜,1187,pity,"state of mind, once upon a time",1641
+措,1188,set aside,"fingers, once upon a time",818
+散,1189,scatter,"salad, flesh, taskmaster",758
+廿,1190,twenty,,
+庶,1191,commoner,"caverns, oven-fire",1558
+遮,1192,intercept,"commoner, road",1865
+席,1193,seat,"caverns, towel",370
+度,1194,degrees,"caverns, crotch",110
+渡,1195,transit,"water, degrees",446
+奔,1196,bustle,"St Bernard dog, haystack",1884
+噴,1197,erupt,"mouth, haystack, oyster",1270
+墳,1198,tomb,"soil, haystack, oyster",1822
+憤,1199,aroused,"state of mind, haystack, oyster",1863
+焼,1200,bake,"hearth, strawman",982
+暁,1201,daybreak,"sun, strawman",1924
+半,1202,half,,224
+伴,1203,consort,"person, half",886
+畔,1204,paddy-ridge,"rice field, half",2049
+判,1205,judgment,"half, saber",197
+券,1206,ticket,"quarter, dagger",583
+巻,1207,scroll,"quarter, snake",944
+圏,1208,sphere,"pent in, scroll",1216
+勝,1209,victory,"moon, quarter, muscle",185
+藤,1210,wistaria,"flower, moon, quarter, grains of rice",291
+謄,1211,mimeograph,"moon, quarter, words",2295
+片,1212,one-sided,,1076
+版,1213,printing block,"one-sided, anti-",802
+之,1214,of,,1318
+乏,1215,destitution,"drop of, building blocks",1646
+芝,1216,turf,"flower, building blocks",1052
+不,1217,negative,"ceiling, person, drop of",101
+否,1218,negate,"negative, mouth",561
+杯,1219,cupfuls,"tree, negative",1235
+矢,1220,dart,"drop, heavens",1294
+矯,1221,rectify,"dart, angel",2105
+族,1222,tribe,"banner, dart",393
+知,1223,know,"dart, mouth",205
+智,1224,wisdom,"know, sun",1002
+矛,1225,halberd,,1538
+柔,1226,tender,"halberd, tree",1187
+務,1227,task,"halberd, taskmaster, muscle",111
+霧,1228,fog,"rain, task",1747
+班,1229,squad,"ball, spear, ball",1592
+帰,1230,homecoming,"spear, broom, apron",504
+弓,1231,bow,,1802
+引,1232,pull,"bow, walking stick",218
+弔,1233,condolences,"bow, walking stick",1840
+弘,1234,vast,"bow, elbow",1059
+強,1235,strong,"vast, insect",112
+弱,1236,weak,"bow, ice, bow, ice",958
+沸,1237,seethe,"water, dollar sign",1709
+費,1238,expense,"dollar sign, shells",321
+第,1239,No.,"bamboo, dollar sign",160
+弟,1240,younger brother,"horns, dollar sign",1161
+巧,1241,adroit,"craft, snare",1537
+号,1242,nickname,"mouth, snare",585
+朽,1243,decay,"tree, snare",1891
+誇,1244,boast,"words, St Bernard dog, ceiling, snare",1272
+汚,1245,dirty,"water, spike, snare",908
+与,1246,bestow,"slingshot, one",308
+写,1247,copy,"crown, bestow",453
+身,1248,somebody,"nose, something added",320
+射,1249,shoot,"somebody, glued to",937
+謝,1250,apologize,"words, shoot",1028
+老,1251,old man,"soil, cane, spoon",803
+考,1252,consider,"old man, slingshot",196
+孝,1253,filial piety,"old man, child",1030
+教,1254,teach,"filial piety, taskmaster",166
+拷,1255,torture,"fingers, consider",2057
+者,1256,someone,"old man, sun",38
+煮,1257,boil,"puppet, oven-fire",1565
+著,1258,renowned,"flower, puppet",849
+署,1259,signature,"eye, puppet",725
+暑,1260,sultry,"sun, puppet",1442
+諸,1261,various,"words, puppet",658
+猪,1262,boar,"pack of wild dogs, puppet",1684
+渚,1263,strand,"water, puppet",2226
+賭,1264,gamble,"money, puppet",1989
+峡,1265,gorge,"mountain, scissors",1833
+狭,1266,cramped,"pack of wild dogs, scissors",1346
+挟,1267,sandwiched,"fingers, scissors",1870
+追,1268,chase,"maestro, road",411
+師,1269,expert,"maestro, ceiling, towel",563
+帥,1270,commander,"maestro, towel",2016
+官,1271,bureaucrat,"house, maestro",230
+棺,1272,coffin,"wood, bureaucrat",2161
+管,1273,pipe,"bamboo, bureaucrat",517
+父,1274,father,,646
+交,1275,mingle,"top hat, father",178
+効,1276,merit,"mingle, power",538
+較,1277,contrast,"car, mingle",1172
+校,1278,exam,"tree, mingle",294
+足,1279,leg,"mouth, mending",343
+促,1280,stimulate,"person, leg",998
+距,1281,long-distance,"wooden leg, giant",1191
+路,1282,path,"wooden leg, each",529
+露,1283,dew,"rain, path",928
+跳,1284,hop,"wooden leg, portent",1716
+躍,1285,leap,"wooden leg, feathers, turkey",900
+践,1286,tread,"wooden leg, float",1570
+踏,1287,step,"wooden leg, water, sun",723
+骨,1288,skeleton,"bone joint, crown, part of the body",936
+滑,1289,slippery,"water, skeleton",1238
+髄,1290,marrow,"skeleton, possess, road",1652
+禍,1291,calamity,"altar, jawbone",2010
+渦,1292,whirlpool,"water, jawbone",1789
+過,1293,overdo,"jawbone, road",285
+阪,1294,Heights,"pinnacle, anti-",503
+阿,1295,Africa,"pinnacle, can",1126
+際,1296,occasion,"pinnacle, ritual",183
+障,1297,hinder,"pinnacle, badge",742
+随,1298,follow,"pinnacle, possess, road",1396
+陪,1299,obeisance,"pinnacle, muzzle",1917
+陽,1300,sunshine,"pinnacle, piggy bank",1071
+陳,1301,exhibit,"pinnacle, east",1323
+防,1302,ward off,"pinnacle, compass",331
+附,1303,affixed,"pinnacle, adhere",2396
+院,1304,Inst.,"pinnacle, perfect",150
+陣,1305,camp,"pinnacle, car",828
+隊,1306,regiment,"pinnacle, horns, sow",605
+墜,1307,crash,"regiment, ground",1466
+降,1308,descend,"pinnacle, walking legs, broken sunglasses",596
+階,1309,storey,"pinnacle, all",513
+陛,1310,highness,"pinnacle, compare, ground",1429
+隣,1311,neighboring,"pinnacle, rice, sunglasses",1083
+隔,1312,isolate,"pinnacle, ceiling, mouth, glass canopy, human legs, spike",1382
+隠,1313,conceal,"pinnacle, vulture, broom, heart",1089
+堕,1314,degenerate,"pinnacle, possess, ground",2087
+陥,1315,collapse,"pinnacle, bound up, olden times",1154
+穴,1316,hole,"house, eight",1366
+空,1317,empty,"hole, craft",304
+控,1318,withdraw,"fingers, empty",1000
+突,1319,stab,"hole, St Bernard dog",521
+究,1320,research,"hole, baseball",368
+窒,1321,plug up,"hole, climax",1776
+窃,1322,stealth,"hole, cut",1871
+窪,1323,depression,"hole, water, ivy",1853
+搾,1324,squeeze,"finger, hole, saw",2046
+窯,1325,kiln,"hole, sheep, oven-fire",2072
+窮,1326,hard up,"hole, somebody, bow",1756
+探,1327,grope,"fingers, paper punch, tree",930
+深,1328,deep,"water, paper punch, tree",484
+丘,1329,hill,,1405
+岳,1330,Point,"hill, mountain",1334
+兵,1331,soldier,"hill, animal legs",522
+浜,1332,seacoast,"water, soldier",645
+糸,1333,thread,,1488
+織,1334,weave,"thread, kazoo",608
+繕,1335,darning,"thread, virtuous",2195
+縮,1336,shrink,"thread, inn",909
+繁,1337,luxuriant,"cleverness, thread",1198
+縦,1338,vertical,"thread, accompany",1258
+線,1339,line,"thread, spring",382
+締,1340,tighten,"thread, sovereign",797
+維,1341,fiber,"thread, turkey",643
+羅,1342,gauze,"eye, fiber",1831
+練,1343,practice,"thread, east",788
+緒,1344,thong,"thread, puppet",952
+続,1345,continue,"thread, sell",141
+絵,1346,picture,"thread, meeting",895
+統,1347,overall,"thread, allot",125
+絞,1348,strangle,"thread, mingle",1288
+給,1349,salary,"thread, fit",615
+絡,1350,entwine,"thread, each",806
+結,1351,tie,"thread, aerosol can",162
+終,1352,end,"thread, winter",256
+級,1353,class,"thread, outstretched hands",785
+紀,1354,chronicle,"thread, snake",780
+紅,1355,crimson,"thread, craft",1299
+納,1356,settlement,"thread, inside",987
+紡,1357,spinning,"thread, compass",1876
+紛,1358,distract,"thread, part",994
+紹,1359,introduce,"thread, seduce",963
+経,1360,sutra,"thread, spool",79
+紳,1361,sire,"thread, monkey",1790
+約,1362,promise,"thread, ladle",94
+細,1363,dainty,"thread, brains",537
+累,1364,accumulate,"rice field, thread",1662
+索,1365,cord,"needle, crown, thread",1127
+総,1366,general,"thread, public, heart",129
+綿,1367,cotton,"thread, white, towel",1495
+絹,1368,silk,"thread, mouth, flesh",1916
+繰,1369,winding,"thread, goods, tree",872
+継,1370,inherit,"thread, fishhook, rice",743
+緑,1371,green,"thread, broom, grains of rice",1180
+縁,1372,affinity,"thread, broom, sow",1291
+網,1373,netting,"thread, glass canopy, horns, perish",1194
+緊,1374,tense,"slave, crotch, thread",677
+紫,1375,purple,"footprint, spoon, thread",1516
+縛,1376,truss,"thread, acupuncturist",1764
+縄,1377,straw rope,"thread, tortoise",1075
+幼,1378,infancy,"cocoon, muscle",1227
+後,1379,behind,"line, cocoon, walking legs",26
+幽,1380,seclude,"cocoon, mountain, cocoon",1996
+幾,1381,how many,"cocoon, cocoon, person, fiesta",1725
+機,1382,mechanism,"tree, abacus",127
+玄,1383,mysterious,"top hat, cocoon",1409
+畜,1384,livestock,"mysterious, rice field",1824
+蓄,1385,amass,"flower, livestock",1260
+弦,1386,bowstring,"bow, mysterious",1773
+擁,1387,hug,"fingers, mysterious, turkey",1213
+滋,1388,nourishing,"water, double-mysterious",1563
+慈,1389,mercy,"double-mysterious, heart",1811
+磁,1390,magnet,"stone, double-mysterious",1686
+系,1391,lineage,"drop, thread",567
+係,1392,person in charge,"person, yarn",232
+孫,1393,grandchild,"child, yarn",1388
+懸,1394,suspend,"prefecture, yarn, heart",889
+却,1395,instead,"gone, stamp",959
+脚,1396,skids,"part of the body, instead",1228
+卸,1397,wholesale,"horse, footprint, stamp",1520
+御,1398,honorable,"line, wholesale",1087
+服,1399,clothing,"flesh, stamp, crotch",873
+命,1400,fate,"fit, stamp",465
+令,1401,orders,"meeting, chop-seal",804
+零,1402,zero,"rain, orders",1217
+齢,1403,age,"tooth, orders",770
+冷,1404,cool,"ice, orders",667
+領,1405,jurisdiction,"orders, head",138
+鈴,1406,small bell,"gold, orders",880
+勇,1407,courage,"chop-seal, male",1319
+通,1408,traffic,"chop-seal, utilize, road",80
+踊,1409,jump,"wooden leg, chop-seal, utilize",1308
+疑,1410,doubt,"spoon, dart, chop-seal, zoo",283
+擬,1411,mimic,"fingers, doubt",1990
+凝,1412,congeal,"ice, doubt",1712
+範,1413,pattern,"bamboo, car, fingerprint",1088
+犯,1414,crime,"pack of wild dogs, fingerprint",874
+厄,1415,unlucky,"cliff, fingerprint",2123
+危,1416,dangerous,"bound up, unlucky",606
+宛,1417,address,"house, mailbox",
+腕,1418,arm,"part of the body, address",1163
+苑,1419,garden,"flower, mailbox",2060
+怨,1420,grudge,"mailbox, heart",2137
+柳,1421,willow,"tree, sign of the hare",1169
+卵,1422,egg,"sign of the hare, drop, drop",1342
+留,1423,detain,"receipt, dagger, rice field",731
+貿,1424,trade,"receipt, dagger, shells",652
+印,1425,stamp,"staples, stamp",682
+興,1426,entertain,"staples, same, staples, tool",734
+酉,1427,sign of the bird,"ceiling, human legs, floor, pent in",2468
+酒,1428,sake,"water, whiskey bottle",1006
+酌,1429,bartending,"whiskey bottle, ladle",2271
+酵,1430,fermentation,"whiskey bottle, filial piety",1862
+酷,1431,cruel,"whiskey bottle, revelation",1596
+酬,1432,repay,"whiskey bottle, state",1515
+酪,1433,dairy products,"whiskey bottle, each",2012
+酢,1434,vinegar,"whiskey bottle, saw",1955
+酔,1435,drunk,"whiskey bottle, nine, ten",1640
+配,1436,distribute,"whiskey bottle, snake",359
+酸,1437,acid,"whiskey bottle, license, walking legs",1218
+猶,1438,furthermore,"pack of wild dogs, horns, whiskey bottle",1799
+尊,1439,revered,"horns, whiskey bottle, glue",1181
+豆,1440,beans,"ceiling, mouth, drop, drop, floor",1422
+頭,1441,head,"table, head",433
+短,1442,short,"dart, table",689
+豊,1443,bountiful,"bend, table",762
+鼓,1444,drum,"drum, branch",1795
+喜,1445,rejoice,"drum, mouth",769
+樹,1446,timber-trees,"tree, drum, glue",988
+皿,1447,dish,,1812
+血,1448,blood,"drop, dish",832
+盆,1449,basin,"part, dish",1654
+盟,1450,alliance,"bright, dish",587
+盗,1451,steal,"next, dish",1051
+温,1452,warm,"water, sun, dish",838
+監,1453,oversee,"slave, reclining, floor, dish",408
+濫,1454,overflow,"water, oversee",
+鑑,1455,specimen,"metal, oversee",1391
+猛,1456,fierce,"pack of wild dogs, child, dish",1301
+盛,1457,boom,"turn into, dish",712
+塩,1458,salt,"ground, reclining, mouth, dish",1148
+銀,1459,silver,"metal, silver",395
+恨,1460,regret,"state of mind, silver",1877
+根,1461,root,"tree, silver",620
+即,1462,instant,"silver, stamp",1167
+爵,1463,baron,"vulture, eye, silver, glue",
+節,1464,node,"bamboo, instant",934
+退,1465,retreat,"silver, road",424
+限,1466,limit,"pinnacle, silver",405
+眼,1467,eyeball,"eye, silver",1527
+良,1468,good,"drop of, silver",501
+朗,1469,melodious,"halo, moon",1374
+浪,1470,wandering,"water, halo",1508
+娘,1471,daughter,"woman, halo",1145
+食,1472,eat,"umbrella, silverware",328
+飯,1473,meal,"food, anti-",1046
+飲,1474,drink,"food, yawn",969
+飢,1475,hungry,"food, wind",1659
+餓,1476,starve,"food, ego",1754
+飾,1477,decorate,"food, reclining, towel",1193
+館,1478,Bldg.,"food, bureaucrat",613
+養,1479,foster,"sheep, food",888
+飽,1480,sated,"eat, wrap",1780
+既,1481,previously,"silver, waitress",1081
+概,1482,outline,"root, waitress",1335
+慨,1483,rue,"regret, waitress",1875
+平,1484,even,,128
+呼,1485,call,"mouth, water-lily",498
+坪,1486,two-mat area,"ground, water-lily",1823
+評,1487,evaluate,"words, water-lily",454
+刈,1488,reap,"sheaf, saber",1738
+希,1489,hope,"sheaf, linen",896
+凶,1490,villain,"sheaf, shovel",1673
+胸,1491,bosom,"part of the body, bound up, villain",1144
+離,1492,detach,"top hat, villain, belt, elbow, turkey",555
+殺,1493,kill,"sheaf, tree, missile",581
+純,1494,genuine,"thread, earthworm",1044
+鈍,1495,dull,"metal, earthworm",1574
+辛,1496,spicy,"stand up, needle",1607
+辞,1497,resign,"tongue, spicy",633
+梓,1498,catalpa,"tree, spicy",2301
+宰,1499,superintend,"house, spicy",1597
+壁,1500,wall,"ketchup, ground",1037
+避,1501,evade,"ketchup, road",756
+新,1502,new,"red pepper, axe",51
+薪,1503,fuel,"flower, new",2182
+親,1504,parent,"red pepper, see",406
+幸,1505,happiness,"ceiling, spicy",786
+執,1506,tenacious,"happiness, fat man",800
+報,1507,report,"happiness, stamp, crotch",167
+叫,1508,shout,"mouth, cornucopia",1426
+糾,1509,twist,"thread, cornucopia",1820
+収,1510,income,"cornucopia, crotch",337
+卑,1511,lowly,"drop of, brains, cornucopia",2003
+碑,1512,tombstone,"rock, lowly",1792
+陸,1513,land,"pinnacle, rice-seedling, ground",736
+睦,1514,intimate,"eye, rice-seedling, ground",1993
+勢,1515,forces,"rice-seedling, ground, fat man, muscle",260
+熱,1516,heat,"rice-seedling, ground, fat man, oven-fire",700
+菱,1517,diamond,"flower, rice-seedling, walking legs",1229
+陵,1518,mausoleum,"pinnacle, rice-seedling, walking legs",1746
+亥,1519,sign of the hog,"top hat, something added",
+核,1520,nucleus,"tree, acorn",475
+刻,1521,engrave,"acorn, saber",866
+該,1522,above-stated,"words, acorn",1648
+劾,1523,censure,"acorn, muscle",2085
+述,1524,mention,"resin, road",379
+術,1525,art,"boulevard, resin",350
+寒,1526,cold,"house, celery, animal legs, ice",1456
+醸,1527,brew,"whiskey bottle, grass skirt",1838
+譲,1528,defer,"words, grass skirt",984
+壌,1529,lot,"ground, grass skirt",1407
+嬢,1530,lass,"woman, grass skirt",2059
+毒,1531,poison,"grow up, breasts",1419
+素,1532,elementary,"grow up, thread",660
+麦,1533,barley,"grow up, walking legs",1615
+青,1534,blue,"grow up, moon",589
+精,1535,refined,"rice, blue",752
+請,1536,solicit,"words, blue",524
+情,1537,feelings,"state of mind, blue",235
+晴,1538,clear up,"sun, blue",1022
+清,1539,pure,"water, blue",705
+静,1540,quiet,"blue, contend",764
+責,1541,blame,"grow up, oyster",598
+績,1542,exploits,"thread, blame",820
+積,1543,volume,"wheat, blame",541
+債,1544,bond,"person, blame",728
+漬,1545,pickling,"water, blame",1818
+表,1546,surface,"grow up, scarf",77
+俵,1547,bag,"person, surface",1481
+潔,1548,undefiled,"water, grow up, dagger, thread",1595
+契,1549,pledge,"grow up, dagger, St Bernard dog",898
+喫,1550,consume,"mouth, pledge",1347
+害,1551,harm,"house, grow up, mouth",358
+轄,1552,control,"car, harm",1771
+割,1553,proportion,"harm, saber",318
+憲,1554,constitution,"house, grow up, eye, heart",551
+生,1555,life,"drop, grow up",29
+星,1556,star,"sun, cell",844
+姓,1557,surname,"woman, cell",1628
+性,1558,sex,"state of mind, cell",104
+牲,1559,animal sacrifice,"cow, cell",1274
+産,1560,products,"vase, cliff, cell",161
+隆,1561,hump,"pinnacle, walking legs, cell",1109
+峰,1562,summit,"mountain, walking legs, bushes",1836
+縫,1563,sew,"thread, walking legs, bushes, road",1723
+拝,1564,worship,"fingers, ceiling, bushes",1443
+寿,1565,longevity,"bushes, glue",1245
+鋳,1566,casting,"metal, longevity",2005
+籍,1567,enroll,"bamboo, Christmas tree, once upon a time",907
+春,1568,springtime,"bonsai, sun",579
+椿,1569,camellia,"tree, springtime",1829
+泰,1570,peaceful,"bonsai, grains of rice",1281
+奏,1571,play music,"bonsai, heavens",1067
+実,1572,reality,"house, bonsai",68
+奉,1573,observance,"bonsai, cornstalk",1624
+俸,1574,stipend,"person, observance",1834
+棒,1575,rod,"tree, observance",1455
+謹,1576,discreet,"words, cabbage",2068
+勤,1577,diligence,"cabbage, muscle",830
+漢,1578,Sino-,"water, scarecrow",1487
+嘆,1579,sigh,"mouth, scarecrow",1584
+難,1580,difficult,"scarecrow, turkey",330
+華,1581,splendor,"flower, silage, needle",1085
+垂,1582,droop,"drop of, silage, walking stick, floor",1720
+睡,1583,drowsy,"eye, droop",1739
+錘,1584,spindle,"metal, droop",
+乗,1585,ride,"wheat, silage",377
+剰,1586,surplus,"ride, saber",1448
+今,1587,now,"meeting, something added",49
+含,1588,include,"clock, mouth",466
+吟,1589,versify,"mouth, clock",1956
+念,1590,wish,"clock, heart",390
+琴,1591,harp,"jewel, jewel, clock",1591
+陰,1592,shade,"pinnacle, clock, rising cloud",1393
+予,1593,beforehand,"elbow, nail, something added",180
+序,1594,preface,"cave, beforehand",1160
+預,1595,deposit,"beforehand, head",981
+野,1596,plains,"computer, beforehand",120
+兼,1597,concurrently,"horns, broom, walking stick, walking stick, something added",1164
+嫌,1598,dislike,"woman, concurrently",1207
+鎌,1599,sickle,"metal, concurrently",1587
+謙,1600,self-effacing,"words, concurrently",1582
+廉,1601,bargain,"cave, concurrently",2066
+西,1602,west,"one, human legs, pent in",259
+価,1603,value,"person, Old West",250
+要,1604,need,"Old West, woman",106
+腰,1605,loins,"part of the body, need",1306
+票,1606,ballot,"Old West, altar",489
+漂,1607,drift,"water, ballot",1492
+標,1608,signpost,"tree, ballot",686
+栗,1609,chestnut,"Old West, tree",1550
+遷,1610,transition,"Old West, St Bernard dog, snake, road",1937
+覆,1611,capsize,"Old West, restore",1378
+煙,1612,smoke,"hearth, Old West, ground",1290
+南,1613,south,"needle, helmet, something added",341
+楠,1614,camphor tree,"tree, south",1927
+献,1615,offering,"south, dog",637
+門,1616,gates,"gate, gate",452
+問,1617,question,"gates, mouth",64
+閲,1618,review,"gates, devil",1855
+閥,1619,clique,"gates, fell",1072
+間,1620,interval,"gates, sun",33
+簡,1621,simplicity,"bamboo, interval",983
+開,1622,open,"gates, two hands",59
+閉,1623,closed,"gates, genie",951
+閣,1624,tower,"gates, each",444
+閑,1625,leisure,"gates, tree",1994
+聞,1626,hear,"gates, ear",319
+潤,1627,wet,"water, gates, king",1644
+欄,1628,column,"tree, gates, east",1523
+闘,1629,fight,"gates, table, glue",751
+倉,1630,godown,"meeting, gate, mouth",1114
+創,1631,genesis,"godown, saber",741
+非,1632,un-,,472
+俳,1633,haiku,"person, jail cell",1137
+排,1634,repudiate,"fingers, jail cell",1047
+悲,1635,sad,"jail cell, heart",1014
+罪,1636,guilt,"eye, jail cell",732
+輩,1637,comrade,"jail cell, car",1365
+扉,1638,front door,"door, jail cell",1866
+侯,1639,marquis,"person, key, dart",2363
+候,1640,climate,"marquis, walking stick",510
+決,1641,decide,"water, guillotine",71
+快,1642,cheerful,"state of mind, guillotine",1074
+偉,1643,admirable,"person, locket",1639
+違,1644,difference,"locket, road",344
+緯,1645,horizontal,"thread, locket",1430
+衛,1646,defense,"boulevard, locket",400
+韓,1647,Korea,"mist, locket",445
+干,1648,dry,,1349
+肝,1649,liver,"part of the body, clothesline",1118
+刊,1650,publish,"clothesline, saber",855
+汗,1651,sweat,"water, clothesline",1502
+軒,1652,flats,"car, clothesline",1416
+岸,1653,beach,"mountain, cliff, clothesline",556
+幹,1654,tree-trunk,"mist, umbrella, clothesline",364
+芋,1655,potato,"flower, potato",2418
+宇,1656,eaves,"house, potato",883
+余,1657,too much,"umbrella, potato, small",680
+除,1658,exclude,"pinnacle, scales",594
+徐,1659,gradually,"line, scales",1470
+叙,1660,confer,"scales, crotch",1954
+途,1661,route,"scales, road",717
+斜,1662,diagonal,"scales, measuring cup",1504
+塗,1663,paint,"water, scales, ground",1414
+束,1664,bundle,"tree, mouth",918
+頼,1665,trust,"bundle, head",708
+瀬,1666,rapids,"water, bundle, head",1152
+勅,1667,imperial order,"bundle, muscle",2157
+疎,1668,alienate,"zoo, bundle",1572
+速,1669,quick,"bundle, road",576
+整,1670,organize,"bundle, taskmaster, correct",478
+剣,1671,saber,"awl, saber",1305
+険,1672,precipitous,"pinnacle, awl",707
+検,1673,examination,"tree, awl",290
+倹,1674,frugal,"person, awl",2479
+重,1675,heavy,"thousand, computer",193
+動,1676,move,"heavy, muscle",73
+勲,1677,meritorious deed,"move, oven-fire",1513
+働,1678,work,"person, move",417
+種,1679,species,"wheat, heavy",461
+衝,1680,collide,"boulevard, heavy",972
+薫,1681,fragrant,"flower, heavy, oven-fire",1849
+病,1682,ill,"sickness, third class",384
+痴,1683,stupid,"sickness, know",1663
+痘,1684,pox,"sickness, beans",
+症,1685,symptoms,"sickness, correct",1111
+疾,1686,rapidly,"sickness, dart",1577
+痢,1687,diarrhea,"sickness, profit",2037
+疲,1688,tired,"sickness, pelt",1263
+疫,1689,epidemic,"sickness, missile",1661
+痛,1690,pain,"sickness, chop-seal, utilize",903
+癖,1691,mannerism,"sickness, ketchup",1973
+匿,1692,hide,"box, young",2024
+匠,1693,artisan,"box, axe",1718
+医,1694,doctor,"box, dart",437
+匹,1695,equal,"box, human legs",1384
+区,1696,ward,"box, sheaf",137
+枢,1697,hinge,"tree, ward",1791
+殴,1698,assault,"ward, missile",1622
+欧,1699,Europe,"ward, yawn",421
+抑,1700,repress,"fingers, box, stamp",834
+仰,1701,face-up,"person, box, stamp",1573
+迎,1702,welcome,"box, stamp, road",625
+登,1703,ascend,"teepee, table",566
+澄,1704,lucidity,"water, ascend",1722
+発,1705,discharge,"teepee, two, human legs",32
+廃,1706,abolish,"cave, discharge",698
+僚,1707,colleague,"person, pup tent",709
+寮,1708,dormitory,"house, pup tent",1705
+療,1709,heal,"sickness, pup tent",600
+彫,1710,carve,"circumference, shape",1533
+形,1711,shape,"two hands, shape",418
+影,1712,shadow,"scenery, shape",464
+杉,1713,cedar,"tree, shape",1095
+彩,1714,coloring,"claw, tree, shape",1251
+彰,1715,patent,"badge, shape",1310
+彦,1716,lad,"vase, cliff, shape",1117
+顔,1717,face,"lad, head",676
+須,1718,ought,"shape, head",1339
+膨,1719,swell,"part of the body, drum, shape",1293
+参,1720,visit,"elbow, St Bernard dog, shape",201
+惨,1721,wretched,"state of mind, visit",1463
+修,1722,discipline,"person, walking stick, taskmaster, shape",603
+珍,1723,rare,"jewel, umbrella, shape",1330
+診,1724,check-up,"words, umbrella, shape",1019
+文,1725,sentence,"top hat, something added",190
+対,1726,vis-a-vis,"plaid, glue",34
+紋,1727,family crest,"thread, plaid",1519
+蚊,1728,mosquito,"insect, plaid",2121
+斉,1729,adjusted,"plaid, fenceposts, two",1209
+剤,1730,dose,"adjusted, sword",1151
+済,1731,finish,"water, adjusted",168
+斎,1732,purification,"plaid, fenceposts, altar",1155
+粛,1733,solemn,"rake, fenceposts, rice",1549
+塁,1734,bases,"rice field, sparkler, ground",651
+楽,1735,music,"dove, sparkler, tree",373
+薬,1736,medicine,"flower, music",702
+率,1737,ratio,"mysterious, sparkler, ten",383
+渋,1738,astringent,"water, footprint, sparkler",1011
+摂,1739,vicarious,"fingers, ear, sparkler",1779
+央,1740,center,"St Bernard dog, something added",582
+英,1741,England,"flower, center",430
+映,1742,reflect,"sun, center",404
+赤,1743,red,"ground, something added",584
+赦,1744,pardon,"red, taskmaster",1868
+変,1745,unusual,"apple, walking legs",238
+跡,1746,tracks,"wooden leg, apple",953
+蛮,1747,barbarian,"apple, insect",2339
+恋,1748,romance,"apple, heart",1296
+湾,1749,gulf,"water, apple, bow",545
+黄,1750,yellow,"salad, sprout, animal legs",1240
+横,1751,sideways,"tree, yellow",480
+把,1752,grasp,"fingers, mosaic",1569
+色,1753,color,"bound up, mosaic",621
+絶,1754,discontinue,"thread, color",784
+艶,1755,glossy,"bountiful, color",2207
+肥,1756,fertilizer,"flesh, mosaic",1469
+甘,1757,sweet,,1248
+紺,1758,navy blue,"thread, wicker basket",1825
+某,1759,so-and-so,"wicker basket, tree",2106
+謀,1760,conspire,"words, so-and-so",1370
+媒,1761,mediator,"woman, so-and-so",1900
+欺,1762,deceit,"bushel basket, yawn",1541
+棋,1763,chess piece,"tree, bushel basket",1311
+旗,1764,national flag,"banner, bushel basket",1190
+期,1765,period,"bushel basket, month",117
+碁,1766,Go,"bushel basket, stone",1609
+基,1767,fundamentals,"bushel basket, soil",241
+甚,1768,tremendously,"bushel basket, equal",1961
+勘,1769,intuition,"tremendously, muscle",1494
+堪,1770,withstand,"soil, tremendously",1953
+貴,1771,precious,"purse, shells",970
+遺,1772,bequeath,"precious, road",647
+遣,1773,dispatch,"purse, maestro, road",664
+舞,1774,dance,"reclining, oaken tub, sunglasses",655
+無,1775,nothingness,"reclining, oaken tub, cooking-fire",274
+組,1776,association,"thread, cabinet",204
+粗,1777,coarse,"rice, cabinet",1689
+租,1778,tariff,"wheat, cabinet",2089
+祖,1779,ancestor,"altar, cabinet",1226
+阻,1780,thwart,"pinnacle, cabinet",1280
+査,1781,investigate,"tree, cabinet",184
+助,1782,help,"cabinet, power",397
+宜,1783,best regards,"house, cabinet",1766
+畳,1784,tatami mat,"rice field, crown, cabinet",1665
+並,1785,row,,599
+普,1786,universal,"row, sun",757
+譜,1787,musical score,"words, universal",1919
+湿,1788,damp,"water, row, sun",1517
+顕,1789,appear,"sun, row, head",1536
+繊,1790,slender,"thread, Thanksgiving, row",1451
+霊,1791,spirits,"rain, two, row",1458
+業,1792,profession,"in a row upside down, not yet",43
+撲,1793,slap,"fingers, upside down in a row, husband",1283
+僕,1794,me,"person, upside down in a row, husband",1236
+共,1795,together,"salad, animal legs",174
+供,1796,submit,"person, strung together",313
+異,1797,uncommon,"brains, together",631
+翼,1798,wing,"feathers, uncommon",1201
+洪,1799,deluge,"water, strung together",1778
+港,1800,harbor,"deluge, snake",495
+暴,1801,outburst,"sun, strung together, grains of rice",692
+爆,1802,bomb,"fire, outburst",735
+恭,1803,respect,"strung together, valentine",1737
+選,1804,elect,"snake, snake, strung together, road",57
+殿,1805,Mr.,"flag, strung together, missile",1199
+井,1806,well,,339
+囲,1807,surround,"pent in, well",771
+耕,1808,till,"Christmas tree, well",1568
+亜,1809,Asia,,1509
+悪,1810,bad,"Asia, heart",530
+円,1811,circle,"glass canopy, walking stick, one",69
+角,1812,angle,"bound up, glass canopy, walking stick, two",805
+触,1813,contact,"angle, insect",904
+解,1814,unravel,"angle, dagger, cow",176
+再,1815,again,"jewel, belt",275
+講,1816,lecture,"words, funnel",653
+購,1817,subscription,"shells, funnel",945
+構,1818,posture,"tree, funnel",316
+溝,1819,gutter,"water, funnel",1736
+論,1820,argument,"words, meeting, scrapbook",227
+倫,1821,ethics,"person, meeting, scrapbook",1322
+輪,1822,wheel,"car, meeting, scrapbook",693
+偏,1823,partial,"person, door, scrapbook",1340
+遍,1824,everywhere,"door, scrapbook, road",1845
+編,1825,compilation,"thread, door, scrapbook",591
+冊,1826,tome,,1313
+典,1827,code,"bend, tool",1055
+氏,1828,family name,"drop, fishhook, one, fishhook",84
+紙,1829,paper,"thread, family name",559
+婚,1830,marriage,"woman, family name, day",767
+低,1831,lower,"person, calling card",435
+抵,1832,resist,"fingers, calling card",1182
+底,1833,bottom,"cave, calling card",867
+民,1834,people,"mouth, family name",28
+眠,1835,sleep,"eye, people",1315
+捕,1836,catch,"finger, dog tag",604
+浦,1837,bay,"water, dog tag",977
+蒲,1838,bulrush,"flower, bay",1887
+舗,1839,shop,"cottage, dog tag",1412
+補,1840,supplement,"cloak, dog tag",332
+邸,1841,residence,"calling card, city walls",905
+郭,1842,enclosure,"receive, city walls",1670
+郡,1843,county,"old boy, city walls",965
+郊,1844,outskirts,"mingle, city walls",1304
+部,1845,section,"muzzle, city walls",36
+都,1846,metropolis,"puppet, city walls",123
+郵,1847,mail,"droop, city walls",917
+邦,1848,home country,"bushes, city walls",654
+郷,1849,home town,"cocoon, silver, city walls",1077
+響,1850,echo,"home town, sound",502
+郎,1851,son,"halo, city walls",569
+廊,1852,corridor,"son, cave",1598
+盾,1853,shield,"drag, ten, eye",1476
+循,1854,sequential,"line, shield",1699
+派,1855,faction,"water, drag, person, rag",164
+脈,1856,vein,"part of the body, drag, person, rag",1477
+衆,1857,masses,"blood, drop, drop, person, rag",450
+逓,1858,parcel post,"drag, cornstalk, belt, road",1957
+段,1859,grade,"staple gun, missile",479
+鍛,1860,forge,"metal, grade",1793
+后,1861,empress,"drag, one, mouth",1583
+幻,1862,phantasm,"cocoon, clothes hanger",1564
+司,1863,director,"clothes hanger, one, mouth",759
+伺,1864,pay respects,"person, director",2209
+詞,1865,part of speech,"words, director",1636
+飼,1866,domesticate,"eat, director",1392
+嗣,1867,heir,"mouth, scrapbook, director",2310
+舟,1868,boat,"drop, glass canopy, mama, something taken away",1786
+舶,1869,liner,"boat, dove",1753
+航,1870,navigate,"boat, whirlwind",665
+般,1871,carrier,"boat, missile",649
+盤,1872,tray,"carrier, dish",881
+搬,1873,conveyor,"fingers, carrier",1664
+船,1874,ship,"boat, gully",713
+艦,1875,warship,"boat, oversee",1363
+艇,1876,rowboat,"boat, courts",1433
+瓜,1877,melon,"claw, elbow",2459
+弧,1878,arc,"bow, melon",2371
+孤,1879,orphan,"child, melon",1239
+繭,1880,cocoon,"flower, hood, thread, insect",2495
+益,1881,benefit,"horns, animal legs, dish",674
+暇,1882,spare time,"day, mouth, staples, box, crotch",1386
+敷,1883,spread,"something added, brains, compass, taskmaster",1212
+来,1884,come,"not yet, horns",102
+気,1885,spirit,"reclining, floor, fishhook, sheaf",113
+汽,1886,vapor,"water, reclining, floor, fishhook",2020
+飛,1887,fly,"measuring box, hook, hook, something added",580
+沈,1888,sink,"water, something added",1271
+妻,1889,wife,"ten, rake, woman",691
+衰,1890,decline,"walking stick, pathetic",1432
+衷,1891,inmost,"needle, mouth, scarf",2229
+面,1892,mask,"ceiling, drop, pent in, eye",186
+革,1893,leather,"flower, something added",249
+靴,1894,shoes,"leather, change",1561
+覇,1895,hegemony,"Old West, leather, moon",1173
+声,1896,voice,"samurai, flag, something added",388
+呉,1897,give,"mouth, something added, tool",1729
+娯,1898,recreation,"woman, give",1827
+誤,1899,mistake,"words, give",1150
+蒸,1900,steam,"flower, something added, floor, oven-fire",1552
+承,1901,acquiesce,,775
+函,1902,bin,"snare, sparkler, shovel",1781
+極,1903,poles,"tree, snare, mouth, crotch, floor",460
+牙,1904,tusk,,2067
+芽,1905,bud,"flower, tusk",1691
+邪,1906,wicked,"tusk, city walls",1612
+雅,1907,gracious,"tusk, turkey",1192
+釈,1908,explanation,"animal tracks, shaku-hachi",1097
+番,1909,turn,"animal tracks, rice field",348
+審,1910,hearing,"house, dice",412
+翻,1911,flip,"dice, feathers",1465
+藩,1912,clan,"flower, water, dice",1896
+毛,1913,fur,,1179
+耗,1914,decrease,"Christmas tree, fur",
+尾,1915,tail,"flag, fur",875
+宅,1916,home,"house, lock of hair",357
+託,1917,consign,"words, lock of hair",1021
+為,1918,do,"something added, tail feathers",831
+偽,1919,falsehood,"person, do",1171
+長,1920,long,"something added, hairpin",12
+張,1921,lengthen,"bow, long",403
+帳,1922,notebook,"towel, long",1459
+脹,1923,dilate,"flesh, long",
+髪,1924,hair of the head,"hair, shape, friend",1474
+展,1925,unfold,"flag, salad, hairpin",352
+喪,1926,miss,"soil, mouth, mouth, hairpin",885
+巣,1927,nest,"owl, fruit",1588
+単,1928,simple,"owl, brain, needle",586
+戦,1929,war,"simple, fiesta",78
+禅,1930,Zen,"altar, simple",1902
+弾,1931,bullet,"bow, simple",853
+桜,1932,cherry tree,"tree, owl, woman",1237
+獣,1933,animal,"owl, rice field, one, mouth, chihuahua",1714
+脳,1934,brain,"part of the body, owl, villain",459
+悩,1935,trouble,"state of mind, owl, villain",1084
+厳,1936,stern,"owl, cliff, daring",638
+鎖,1937,chain,"metal, small, shells",1250
+挙,1938,raise,"owl, tool, hand",257
+誉,1939,reputation,"owl, tool, speech",1064
+猟,1940,game-hunting,"pack of wild dogs, owl, wind, cornstalk",1851
+鳥,1941,bird,"dove, one, tail feathers",1043
+鳴,1942,chirp,"mouth, bird",1279
+鶴,1943,crane,"turkey-house, bird",1369
+烏,1944,crow,,2042
+蔦,1945,vine,"flower, bird",2215
+鳩,1946,pigeon,"baseball, bird",1637
+鶏,1947,chicken,"vulture, husband, bird",1901
+島,1948,island,"bird, mountain",245
+暖,1949,warmth,"sun, migrating ducks",1371
+媛,1950,beautiful woman,"woman, migrating ducks",1735
+援,1951,abet,"fingers, migrating ducks",312
+緩,1952,slacken,"thread, migrating ducks",933
+属,1953,belong,"flag, gnats, belt",912
+嘱,1954,entrust,"mouth, belong",1903
+偶,1955,accidentally,"person, Talking Cricket",1602
+遇,1956,interview,"Talking Cricket, road",1343
+愚,1957,foolish,"Talking Cricket, heart",1551
+隅,1958,corner,"pinnacle, Talking Cricket",1601
+逆,1959,inverted,"mountain goat, road",683
+塑,1960,model,"mountain goat, moon, soil",
+岡,1961,Mount,"glass canopy, mountain goat",463
+鋼,1962,steel,"metal, Mount",1246
+綱,1963,hawser,"thread, Mount",1053
+剛,1964,sturdy,"Mount, sword",1576
+缶,1965,tin can,"horse, mountain",1543
+陶,1966,pottery,"pinnacle, bound up, tin can",1680
+揺,1967,swing,"fingers, condor",1079
+謡,1968,Noh chanting,"words, condor",1580
+就,1969,concerning,"capital, something added",624
+懇,1970,sociable,"skunk, silver, heart",1135
+墾,1971,groundbreaking,"skunk, silver, soil",
+免,1972,excuse,"bound up, sun, human legs",1080
+逸,1973,elude,"rabbit, road",1524
+晩,1974,nightfall,"sun, rabbit",1424
+勉,1975,exertion,"rabbit, muscle",1066
+象,1976,elephant,"bound up, sun, sow",394
+像,1977,statue,"person, elephant",856
+馬,1978,horse,"mane, tail feathers",639
+駒,1979,pony,"team of horses, phrase",1452
+験,1980,verification,"team of horses, awl",410
+騎,1981,equestrian,"team of horses, strange",1696
+駐,1982,parking,"team of horses, candlestick",955
+駆,1983,drive,"team of horses, ward",1033
+駅,1984,station,"team of horses, shaku-hachi",724
+騒,1985,boisterous,"team of horses, crotch, insect",1069
+駄,1986,burdensome,"team of horses, plump",1500
+驚,1987,wonder,"awe, team of horses",1141
+篤,1988,fervent,"bamboo, team of horses",1942
+騰,1989,inflation,"meat, quarter, team of horses",1420
+虎,1990,tiger,"magic wand, zoo, something taken away, diced, human legs",1653
+虜,1991,captive,"tiger, male",1678
+膚,1992,skin,"tiger, stomach",1679
+虚,1993,void,"tiger, row",1454
+戯,1994,frolic,"void, fiesta",1880
+虞,1995,uneasiness,"tiger, give",
+慮,1996,prudence,"tiger, think",916
+劇,1997,drama,"tiger, sow, sabre",662
+虐,1998,tyrannize,"tiger, one, box",1464
+鹿,1999,deer,"cave, key, something added, compare",957
+薦,2000,recommend,"flower, deer, slingshot, tail feathers",1082
+慶,2001,jubilation,"deer, crown, heart, walking legs",1300
+麗,2002,lovely,,1758
+熊,2003,bear,"ability, oven-fire",1105
+能,2004,ability,"elbow, meat, spoon, spoon",273
+態,2005,attitude,"ability, heart",353
+寅,2006,sign of the tiger,"house, ceiling, sprout, animal legs",1975
+演,2007,performance,"water, sign of the tiger",267
+辰,2008,sign of the dragon,"cliff, two, hairpin",1600
+辱,2009,embarrass,"sign of the dragon, glue",1769
+震,2010,quake,"weather, sign of the dragon",893
+振,2011,shake,"fingers, sign of the dragon",614
+娠,2012,with child,"woman, sign of the dragon",1623
+唇,2013,lips,"sign of the dragon, mouth",1992
+農,2014,agriculture,"bend, sign of the dragon",385
+濃,2015,concentrated,"water, agriculture",1200
+送,2016,send off,"golden calf, road",311
+関,2017,connection,"gates, golden calf",70
+咲,2018,blossom,"mouth, golden calf",1534
+鬼,2019,ghost,"drop of, brains, human legs, elbow",1557
+醜,2020,ugly,"whiskey bottle, ghost",2074
+魂,2021,soul,"rising cloud, ghost",1748
+魔,2022,witch,"hemp, ghost",1514
+魅,2023,fascination,"ghost, not yet",1206
+塊,2024,clod,"soil, ghost",1800
+襲,2025,attack,"old dragon, clothes",1130
+嚇,2026,menacing,"mouth, red, red",2141
+朕,2027,majestic plural,"flesh, golden calf",
+雰,2028,atmosphere,"weather, part",1341
+箇,2029,item,"bamboo, harden",
+錬,2030,tempering,"gold, east",2221
+遵,2031,abide by,"revered, road",
+罷,2032,quit,"eye, ability",2104
+屯,2033,barracks,"drop of, shovel, fishhook",1980
+且,2034,moreover,,
+藻,2035,seaweed,"flower, water, goods, wood",2124
+隷,2036,slave,"soil, altar, sieve",2009
+癒,2037,healing,"sickness, meeting, butcher, heart",1667
+丹,2038,rust-colored,,1402
+潟,2039,lagoon,"water, something added, tail feathers",1204
+丑,2040,sign of the cow,,2305
+卯,2041,sign of the hare,"receipt, stamp",2400
+巳,2042,sign of the snake,,2142
