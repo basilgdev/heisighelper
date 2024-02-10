@@ -14,7 +14,7 @@
       return $(this).text().trim();
     }).get().join(' | '); // Joining each column content with '|'
 
-    var tempElement = $('<textarea>'); // Create a temporary textarea to copy content to clipboard
+    var tempElement = $('<textarea>');
     $('body').append(tempElement);
     tempElement.val(rowData).select();
     document.execCommand('copy');
