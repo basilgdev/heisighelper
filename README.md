@@ -1,6 +1,9 @@
 # Heisig Helper
 
-A simple web page built with Rails that parses a given Japanese sentence and breaks down each kanji into their radical components as they appear in James Heisig's Remembering the Kanji vol. I. The results can be copied into the clipboard.
+![image](https://github.com/basilgdev/heisighelper/assets/42182755/8d73da80-d74a-45ec-8df5-850e1b46445c)
+
+
+A simple web page built with Rails that parses a given Japanese sentence and breaks down each kanji into their radical components as they appear in James Heisig's Remembering the Kanji vol. I. The links allow you to copy the result(s) into the clipboard.
 
 I created this to supplement my sentence mining process. I was already grabbing word definitions, but occasionally I also wanted to grab the keyword and radicals of unfamiliar kanji.
 
