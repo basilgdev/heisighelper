@@ -10,15 +10,15 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2024_01_20_181325) do
+ActiveRecord::Schema[7.1].define(version: 2024_01_18_202836) do
   create_table "kanjis", force: :cascade do |t|
     t.string "kanji", limit: 1, null: false
-    t.integer "frame_number", null: false
+    t.integer "frame_number"
     t.string "radicals"
     t.integer "rank"
+    t.string "entry"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.string "entry"
   end
 
 end

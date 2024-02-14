@@ -1,9 +1,19 @@
-# This file should ensure the existence of records required to run the application in every environment (production,
-# development, test). The code here should be idempotent so that it can be executed at any point in every environment.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Example:
-#
-#   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
-#     MovieGenre.find_or_create_by!(name: genre_name)
-#   end
+require 'csv'
+
+csv_text = File.read(Rails.root.join('db', 'heisig.csv'))
+csv = CSV.parse(csv_text, :headers => false, :encoding => 'UTF-8')
+
+# For some reason, when the csv file has headers, it cannot access the 'kanji' column, while the rest are fine?
+# Possibly encoding related...
+# 'TypeError: no implicit conversion of nil into String (TypeError)'
+
+csv.each do |row|
+
+  Kanji.create(
+    kanji: row[0]&.strip,
+    frame_number: row[1]&.strip,
+    entry: row[2]&.strip,
+    radicals: row[3]&.strip,
+    rank: row[4]&.strip
+  )
+end
