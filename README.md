@@ -1,19 +1,34 @@
 # Heisig Helper
 
-![image](https://github.com/basilgdev/heisighelper/assets/42182755/8d73da80-d74a-45ec-8df5-850e1b46445c)
-
-
 A simple web page built with Rails that parses a given Japanese sentence and breaks down each kanji into their radical components as they appear in James Heisig's Remembering the Kanji vol. I. The links allow you to copy the result(s) into the clipboard.
 
-I created this to supplement my sentence mining process. I was already grabbing word definitions, but occasionally I also wanted to grab the keyword and radicals of unfamiliar kanji.
+[Screenshot](https://github.com/basilgdev/heisighelper/assets/42182755/8d73da80-d74a-45ec-8df5-850e1b46445c)
+
+
 
 ## Setup
 
-Install Rails 7.1.2 and Ruby 3.2.2.
+Install Rails 7.1.2 and Ruby 3.2.2. And then, run:
 
-The sample database in ./storage contains the first 2042 kanji imported from `heisig.csv`. You can initialize your own sqlite3 database with the schema in `/db/schema.rb`, and use `importHeisigCsv.rb` to import the rows from the .csv file.
+```
+bundle install
+rails db:create
+rails db:migrate
+rails db:seed
+```
+
+Run `rails server` to start.
 
 ## Usage
 
-Simply paste a Japanese sentence with kanji to get some results.
+Simply paste a Japanese sentence with kanji to get some results!
+
+## Roadmap
+- [ ] Export results to CSV
+- [ ] Dockerise app
+- [ ] Add functionality to create user accounts
+- [ ] Add associations to allow mnemonics to be saved per kanji, per user
+- [ ] Add functionality to generate AI mnemonics
+- [ ] Add functionality create lists and favourites
+
 
