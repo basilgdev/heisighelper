@@ -4,7 +4,9 @@
 <div class="pb-1">Each kanji links to the excellent J-E dictionary <a href="https://jisho.org/" target="_blank">Jisho.org</a>.</div>
 <p>
 
-<%= form_tag search_kanjis_path, :method => "get", id: "kanji_form" do %>
+<%= form_tag search_kanjis_path, :method => "get", id: "kanji_form", onsubmit: "return validateForm()" do %>
   <div><%= text_field_tag :sentence, params[:sentence], id: "sentence_input", class: 'form-control', placeholder: 'Enter a Japanese sentence, or kanji' %></div>
   <div class="pt-3" style="text-align: center"><%= submit_tag("Find the Kanji", :name => nil, class: 'btn btn-primary') %> </div>
 <% end %>
+
+<%= javascript_include_tag 'views/kanjis/_uppercontent' %>
