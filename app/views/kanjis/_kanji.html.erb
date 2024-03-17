@@ -1,6 +1,6 @@
-<tr class="kanji-row" style="vertical-align: middle" data-content="<%= kanji.kanji %> | <%= kanji.entry %> | <%= kanji.frame_number %> | <%= kanji.radicals %>" id="<%= dom_id kanji %>">
+<tr class="kanji-row" data-content="<%= kanji.kanji %> | <%= kanji.entry %> | <%= kanji.frame_number %> | <%= kanji.radicals %>" id="<%= dom_id kanji %>">
   
-  <td style="font-size: 150%"><a href="https://jisho.org/search/<%= kanji.kanji %> %23kanji" target="_blank"><%= kanji.kanji %></a></td>
+  <td><a class="kanji" href="https://jisho.org/search/<%= kanji.kanji %> %23kanji" target="_blank"><%= kanji.kanji %></a></td>
   <td><%= kanji.entry %></td>
   <td><%= kanji.radicals %></td>
   <td><%= kanji.frame_number %></td>

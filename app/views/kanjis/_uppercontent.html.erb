@@ -1,4 +1,3 @@
-<p style="color: green"><%= notice %></p>
 <h1 class="display-5">Heisig Helper</h1>
 <div class="pb-3">This site parses a given Japanese sentence and breaks down each kanji into their radical components as they appear in James Heisig's Remembering the Kanji vol. I.</div>
 <div class="pb-1">Each kanji links to the excellent J-E dictionary <a href="https://jisho.org/" target="_blank">Jisho.org</a>.</div>
@@ -8,7 +7,7 @@
   <div>
     <%= text_field_tag :sentence, params[:sentence], id: "sentence_input", class: 'form-control', placeholder: 'Enter a Japanese sentence, or kanji', autocomplete: 'off' %>
   </div>
-  <div class="pt-3" style="text-align: center">
+  <div class="pt-3 text-center">
     <%= submit_tag("Find the Kanji", :name => nil, class: 'btn btn-primary', id: "kanji_submit") %>
   </div>
 <% end %>
