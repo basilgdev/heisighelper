@@ -1,5 +1,5 @@
 function copyRowToClipboard(button) {
-    var rowData = $(button).closest('tr').find('td:not(:last-child)').map(() => {
+    var rowData = $(button).closest('tr').find('td:not(:last-child)').map(function () {
         return $(this).text().trim();
     }).get().join(' | ');
 

@@ -44,3 +44,7 @@ footer {
 .is-invalid {
   animation: invalidInputAnimation 0.5s ease;
 }
+
+.bi-clipboard-fill:hover {
+  cursor: pointer;
+}

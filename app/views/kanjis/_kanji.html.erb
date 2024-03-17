@@ -4,7 +4,7 @@
   <td><%= kanji.entry %></td>
   <td><%= kanji.radicals %></td>
   <td><%= kanji.frame_number %></td>
-  <td align="right"><button class="copy-btn btn btn-link" onclick="copyRowToClipboard(this)">Copy</button></td>
+  <td align="right"><i class="bi bi-clipboard-fill text-primary p-2" onclick="copyRowToClipboard(this)"></i></td>
 </tr>
 
 <%= javascript_include_tag 'views/kanjis/_kanji' %>
