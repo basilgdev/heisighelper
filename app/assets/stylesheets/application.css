@@ -17,16 +17,30 @@
  body {
     margin: 0;
     padding: 0;
-    min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
+    min-height: 100vh;
     display: flex;
-    flex-direction: column; /* Make sure the children stack vertically */
+    flex-direction: column; 
   }
-  main {
-    flex: 1; /* Allow the main content to take up remaining space */
-  }
-  footer {
-    margin-top: auto; /* Push the footer to the bottom of the page */
-    background-color: #f0f0f0; /* Example background color */
-    padding: 5px 10px; /* Adjust padding to half the height */
-    text-align: center;
-  }
+
+main {
+  flex: 1;
+}
+footer {
+  margin-top: auto;
+  background-color: #f0f0f0; 
+  padding: 5px 10px; 
+  text-align: center;
+}
+
+@keyframes invalidInputAnimation {
+  0% { transform: translateX(0); }
+  10%, 90% { transform: translateX(-5px); }
+  20%, 80% { transform: translateX(5px); }
+  30%, 50%, 70% { transform: translateX(-5px); }
+  40%, 60% { transform: translateX(5px); }
+  100% { transform: translateX(0); }
+}
+
+.is-invalid {
+  animation: invalidInputAnimation 0.5s ease;
+}

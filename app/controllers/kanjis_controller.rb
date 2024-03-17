@@ -1,28 +1,5 @@
 class KanjisController < ApplicationController
-  before_action :set_kanji, only: %i[ show edit update destroy ]
-
-  # GET /kanjis or /kanjis.json
-  def index
-    @kanjis = Kanji.all
-  end
-
-  def test
-    @kanjis = Kanji.all
-    render json: @kanjis
-  end
-
-  # GET /kanjis/1 or /kanjis/1.json
-  def show
-  end
-
-  # GET /kanjis/new
-  def new
-    @kanji = Kanji.new
-  end
-
-  # GET /kanjis/1/edit
-  def edit
-  end
+  before_action :set_kanji, only: %i[ show ]
 
   # POST /kanjis or /kanjis.json
   def create
@@ -41,33 +18,20 @@ class KanjisController < ApplicationController
 
   def search
     sentence = params[:sentence].strip
+    if sentence.empty?
+      render json: { error: "Sentence cannot be empty" }, status: :bad_request
+      return
+    end
+
     kanjis = sentence.scan(/\p{Han}/) # This regex will match all kanji characters
+    if kanjis.empty?
+      render json: { error: "Sentence must contain at least one Kanji character" }, status: :bad_request
+      return
+    end
+
     kanji_conditions = kanjis.map { |k| "'#{k}'" }.join(', ')
     query = "kanji IN (#{kanji_conditions})"
     @kanjis = Kanji.where(query)
-  end
-
-  # PATCH/PUT /kanjis/1 or /kanjis/1.json
-  def update
-    respond_to do |format|
-      if @kanji.update(kanji_params)
-        format.html { redirect_to kanji_url(@kanji), notice: "Kanji was successfully updated." }
-        format.json { render :show, status: :ok, location: @kanji }
-      else
-        format.html { render :edit, status: :unprocessable_entity }
-        format.json { render json: @kanji.errors, status: :unprocessable_entity }
-      end
-    end
-  end
-
-  # DELETE /kanjis/1 or /kanjis/1.json
-  def destroy
-    @kanji.destroy!
-
-    respond_to do |format|
-      format.html { redirect_to kanjis_url, notice: "Kanji was successfully destroyed." }
-      format.json { head :no_content }
-    end
   end
 
   private

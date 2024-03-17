@@ -1,5 +1,5 @@
 function copyRowToClipboard(button) {
-    var rowData = $(button).closest('tr').find('td:not(:last-child)').map(function () {
+    var rowData = $(button).closest('tr').find('td:not(:last-child)').map(() => {
         return $(this).text().trim();
     }).get().join(' | ');
 
@@ -9,5 +9,6 @@ function copyRowToClipboard(button) {
     document.execCommand('copy');
     tempElement.remove();
 
-    alert('Row copied to clipboard!');
+    const copyToast = $('#copyToast');
+    bootstrap.Toast.getOrCreateInstance(copyToast).show()
 }

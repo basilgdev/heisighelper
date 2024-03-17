@@ -5,21 +5,22 @@ $(document).ready(function() {
     });
   });
 
-    $('#copy-all-link').click(function() {
-      var allRowsContent = '';
-      $('#kanjis tr').each(function(index) {
-        var rowData = $(this).find('td:not(:last-child)').map(function() {
-          return $(this).text().trim();
-        }).get().join(' | '); // Joining each column content with '|'
-        
-        allRowsContent += rowData + '\n'; // Adding newline after each row content
-      });
+$('#copy-all-link').click(function() {
+  var allRowsContent = '';
+  $('#kanjis tr').each(function(index) {
+    var rowData = $(this).find('td:not(:last-child)').map(function() {
+      return $(this).text().trim();
+    }).get().join(' | '); 
+    
+    allRowsContent += rowData + '\n'; 
+  });
 
-      var tempElement = $('<textarea>'); // Create a temporary textarea to copy content to clipboard
-      $('body').append(tempElement);
-      tempElement.val(allRowsContent).select();
-      document.execCommand('copy');
-      tempElement.remove();
+  var tempElement = $('<textarea>');
+  $('body').append(tempElement);
+  tempElement.val(allRowsContent).select();
+  document.execCommand('copy');
+  tempElement.remove();
 
-      alert('All rows copied to clipboard!');
-    });
+  const copyToast = $('#copyToast');
+  bootstrap.Toast.getOrCreateInstance(copyToast).show();
+});

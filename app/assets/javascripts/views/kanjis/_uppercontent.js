@@ -1,8 +1,16 @@
 function validateForm() {
-    var sentenceInput = document.getElementById("sentence_input").value.trim();
-    if (sentenceInput === "") {
-      alert("Please enter a Japanese sentence or kanji");
-      return false;
-    }
-    return true; 
+  var sentenceInput = $("#sentence_input");
+  var sentenceValue = sentenceInput.val().trim();
+  var kanjiRegex = /[\u4e00-\u9faf]/; // Match Kanji characters
+
+  if (sentenceValue === "" || !kanjiRegex.test(sentenceValue)) {
+    sentenceInput.addClass("is-invalid");
+    setTimeout(() => {
+      sentenceInput.removeClass("is-invalid");
+    }, 1500);
+    return false;
   }
+
+  return true; 
+}
+
