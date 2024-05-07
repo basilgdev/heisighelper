@@ -23,12 +23,3 @@ Run `rails server` to start.
 
 Simply paste a Japanese sentence with kanji to get some results!
 
-## Roadmap
-- [ ] Export results to CSV
-- [ ] Dockerise app
-- [ ] Add functionality to create user accounts
-- [ ] Add associations to allow mnemonics to be saved per kanji, per user
-- [ ] Add functionality to generate AI mnemonics
-- [ ] Add functionality create lists and favourites
-
-
