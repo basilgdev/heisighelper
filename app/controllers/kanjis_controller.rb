@@ -22,16 +22,20 @@ class KanjisController < ApplicationController
       render json: { error: "Sentence cannot be empty" }, status: :bad_request
       return
     end
-
-    kanjis = sentence.scan(/\p{Han}/) # This regex will match all kanji characters
-    if kanjis.empty?
+  
+    kanjis_with_positions = sentence.enum_for(:scan, /\p{Han}/).map { Regexp.last_match }
+    if kanjis_with_positions.empty?
       render json: { error: "Sentence must contain at least one Kanji character" }, status: :bad_request
       return
     end
-
+  
+    kanjis = kanjis_with_positions.map(&:to_s)
     kanji_conditions = kanjis.map { |k| "'#{k}'" }.join(', ')
     query = "kanji IN (#{kanji_conditions})"
     @kanjis = Kanji.where(query)
+  
+    # Order kanji results by the order they appear in the sentence
+    @kanjis = @kanjis.sort_by { |kanji| kanjis_with_positions.find_index { |match| match.to_s == kanji.kanji } }
   end
 
   private
