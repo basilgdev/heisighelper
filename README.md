@@ -4,7 +4,7 @@ A simple web page built with Rails that parses a given Japanese sentence and bre
 
 ## Screenshot
 
-![chrome_FS1e8ig2Mr](https://github.com/user-attachments/assets/b5ddb1f6-5a64-401f-9134-e0e67c1f307a)
+![image](https://github.com/user-attachments/assets/4168a3b7-8dd9-43c7-847b-7fb25d4be1d1)
 
 ## Setup
 
