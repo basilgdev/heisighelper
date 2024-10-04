@@ -3,8 +3,8 @@ default: &default
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   host: localhost
   encoding: unicode
-  username: <%= ENV["database_username"] %>
-  password: <%= ENV["database_password"] %>
+  username: <%= ENV["DATABASE_USERNAME"] %>
+  password: <%= ENV["DATABASE_PASSWORD"] %>
   timeout: 5000
 
 development:
@@ -18,3 +18,5 @@ test:
 production:
   <<: *default
   database: heisigproduction
+  username: <%= ENV["database_username"] %>
+  password: <%= ENV["database_password"] %>
