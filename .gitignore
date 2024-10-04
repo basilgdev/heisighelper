@@ -56,4 +56,7 @@ build-iPhoneSimulator/
 # .rubocop-https?--*
 .DS_Store
 log/development.log
-.DS_Store
+heisigproduction
+heisigdevelopment
+heisigtest
+

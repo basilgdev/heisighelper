@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-ruby "3.2.3"
+ruby "3.3.5"
 
 gem "dotenv"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 7.1.2"
+gem "rails", "~> 7.2.1"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
@@ -16,7 +16,7 @@ gem "puma", ">= 5.0"
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
-gem 'pg', '~> 1.5', '>= 1.5.4'
+gem 'ostruct'
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 # gem "turbo-rails"
@@ -48,6 +48,7 @@ gem "bootsnap", require: false
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri windows ]
+  gem 'sqlite3', '2.1.0'
 end
 
 group :development do
@@ -62,7 +63,7 @@ group :development do
 end
 
 group :production do
-
+  gem 'pg', '~> 1.5', '>= 1.5.4'
   # Use console on exceptions pages [https://github.com/rails/web-console]
 end
 

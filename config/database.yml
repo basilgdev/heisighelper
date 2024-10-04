@@ -1,23 +1,20 @@
 default: &default
-  adapter: postgresql
+  adapter: sqlite3
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  host: localhost
   encoding: unicode
+  username: <%= ENV["database_username"] %>
+  password: <%= ENV["database_password"] %>
   timeout: 5000
 
 development:
   <<: *default
   database: heisigdevelopment
-  username: postgres
-  password: postgres
 
 test:
   <<: *default
   database: heisigtest
-  username: postgres
-  password: postgres
 
 production:
   <<: *default
   database: heisigproduction
-  username: postgres
-  password: <%= ENV["MYAPP_DATABASE_PASSWORD"] %>
