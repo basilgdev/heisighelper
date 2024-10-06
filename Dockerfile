@@ -8,9 +8,6 @@ WORKDIR /app
 # RUN apt-get update -qq && apt-get install -y nodejs
 RUN apt-get update -qq && apt-get install -y
 
-# Install Rails
-RUN gem install rails -v 7.2.1
-
 # Copy the Gemfile and Gemfile.lock
 COPY Gemfile Gemfile.lock ./
 
